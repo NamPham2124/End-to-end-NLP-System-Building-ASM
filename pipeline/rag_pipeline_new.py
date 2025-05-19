@@ -68,9 +68,9 @@ def parse_args():
                         help="Type of text splitter to use.")
     parser.add_argument("--chunk_size", type=int, default=1000, help="Size of the text chunks.")
     parser.add_argument("--chunk_overlap", type=int, default=200, help="Overlap between text chunks.")
-    parser.add_argument("--text_files_path", type=str, default="data/crawled/crawled_text_data",
+    parser.add_argument("--text_files_path", type=str, default="data/crawled_text_data",
                         help="Path to the text files directory.")
-    parser.add_argument("--sublink_files_path", type=str, default="data/crawled/crawled_all",
+    parser.add_argument("--sublink_files_path", type=str, default=0,
                         help="Path to the sublink files directory.")
     parser.add_argument("--sublink_files_nums", type=int, default=0,
                         help="number of sublink file to be loaded.")
@@ -82,7 +82,7 @@ def parse_args():
     parser.add_argument("--top_k_search", type=int, default=3, help="Top K documents to retrieve.")
     parser.add_argument("--top_k_rerank", type=int, default=3, help="Top K documents to rerank.")
     parser.add_argument("--hypo", type=str2bool, default=False, help="Whether to use hypothetical queries.")
-    parser.add_argument("--qes_file_path", type=str, default="data/annotated/QA_pairs_1.csv",
+    parser.add_argument("--qes_file_path", type=str, default="data/QA_pairs_1.csv",
                         help="Path to the QA file.")
     parser.add_argument("--output_file", type=str, required=True, help="Path to the output file.")
     parser.add_argument("--qa_nums", type=int, default=100)
