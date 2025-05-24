@@ -1,722 +1,527 @@
 Doc_id,Question,Answer
-39.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập vào thời gian nào?,Không rõ từ thời gian nào
-39.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,Không rõ số lượng
-39.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường trực thuộc?,Không rõ số lượng
-39.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trung tâm đào tạo trực thuộc?,Không rõ số lượng
-39.txt_chunk2,Đại học Quốc gia Hà Nội chỉ đạo và điều hành thống nhất công tác quản lý và tổ chức đào tạo theo cơ chế nào?,"Cơ chế mở, liên thông, liên kết và hợp tác"
-39.txt_chunk2,Các đơn vị đào tạo có nhiệm vụ đào tạo các ngành học theo danh mục ngành đào tạo của Nhà nước và thí điểm đào tạo các ngành mới nhằm cung cấp nguồn nhân lực chất lượng cao và bồi dưỡng nhân tài cho đất nước trong lĩnh vực nào?,"Khoa học cơ bản, công nghệ cao"
-39.txt_chunk3,Đại học Quốc gia Hà Nội được thành lập theo quy định nào?,"Theo Điều 1 của tài liệu, Đại học Quốc gia Hà Nội được thành lập theo quy định về quản lý đào tạo và nghiên cứu khoa học"
-39.txt_chunk3,"Các đơn vị đào tạo báo cáo Đại học Quốc gia Hà Nội về tình hình quản lý, tổ chức và kết quả đào tạo sau mỗi học kỳ theo quy định nào?","Theo Điều 7 của tài liệu, các đơn vị đào tạo báo cáo Đại học Quốc gia Hà"
-39.txt_chunk4,"Môn học là một phần kiến thức tương đối trọn vẹn của một bộ môn khoa học, được thiết kế thuận tiện để người học tích lũy dần toàn bộ kiến thức của một chương trình đào tạo trong quá trình học tập trong bao lâu?",một học kỳ
-39.txt_chunk4,Môn học có mã riêng do Đại học Quốc gia Hà Nội quy định có khối lượng kiến thức từ bao nhiêu đến bao nhiêu tín chỉ?,2 đến 5
-39.txt_chunk5,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo?,15 chương trình đào tạo
-39.txt_chunk5,Đại học Quốc gia Hà Nội có bao nhiêu hình thức đào tạo?,2 hình thức đào tạo
-39.txt_chunk5,"Các chương trình đào tạo chất lượng cao, tài năng, đạt chuẩn quốc tế, bằng kép, văn bằng thứ hai, liên thông có thể đào tạo theo hình thức nào?",Đào tạo chính quy
-39.txt_chunk6,"Nhà nước cấp trực tiếp tiền hỗ trợ miễn, giảm học phí cho các đối tượng được miễn, giảm theo quy định hiện hành của Nhà nước vào thời điểm nào?",Theo quy định hiện hành
-39.txt_chunk6,Đại học Quốc gia Hà Nội quy định tỷ lệ và định mức sử dụng kinh phí đào tạo theo khoản nào?,Điều 2
-62.txt_chunk1,Sự kiện được tổ chức trên website nào?,canva
-62.txt_chunk1,Địa điểm tổ chức sự kiện là khu vực nào?,tuyển sinh Đại học Tung Tran
-62.txt_chunk1,Kích thước hình ảnh được sử dụng cho sự kiện là bao nhiêu?,720 × 480 px
-62.txt_chunk1,Ngày và tháng tổ chức sự kiện là bao nhiêu?,07/05/2025
-62.txt_chunk1,Số phiên bản của Adobe được sử dụng là bao nhiêu?,1
-62.txt_chunk2,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk2,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk2,Địa điểm nào tổ chức sự kiện?,PPG Arena
-62.txt_chunk2,Ngày tổ chức sự kiện là ngày nào?,13 tháng 10
-62.txt_chunk2,Thành phố nào có sự kiện?,Pittsburgh
-62.txt_chunk2,Đại học nào có liên quan đến sự kiện?,Đại học Carnegie Mellon
-62.txt_chunk3,Đại học Carnegie Mellon được thành lập ở đâu?,Pittsburgh
-62.txt_chunk3,Thành phố Pittsburgh có tên theo ai?,William Pitt
-62.txt_chunk4,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk4,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk4,Địa điểm tổ chức sự kiện là PPG Arena?,Có
-62.txt_chunk4,Ngày tổ chức sự kiện là ngày 13 tháng 10?,Có
-62.txt_chunk4,Có bao nhiêu câu hỏi và trả lời trong tài liệu?,Khoảng 10 câu
-62.txt_chunk5,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk5,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk5,Địa điểm tổ chức sự kiện là PPG Arena?,Có
-62.txt_chunk5,Ngày tổ chức sự kiện là ngày 13 tháng 10?,Có
-62.txt_chunk5,Đại học Carnegie Mellon có liên quan đến sự kiện không?,Có
-62.txt_chunk5,Thành phố Pittsburgh có liên quan đến sự kiện không?,Có
-62.txt_chunk6,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk6,Đại học Carnegie Mellon được thành lập vào khoảng thời gian nào?,Cuối thế kỷ 19 (tài liệu không cung cấp thông tin chính xác về năm thành lập)
-62.txt_chunk7,Đại học Carnegie Mellon được thành lập tại thành phố nào?,Pittsburgh
-62.txt_chunk7,"Sự kiện nào có thể liên quan đến từ khóa ""F"" và ""3""?",Có thể là một sự kiện thể thao hoặc một sự kiện khác liên quan đến số
-62.txt_chunk8,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk8,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk8,Ngày nào có sự kiện được tổ chức tại PPG Arena?,Không thể xác định được ngày cụ thể
-62.txt_chunk8,Địa chỉ của PPG Arena là ở đâu?,Không thể xác định được địa chỉ cụ thể
-62.txt_chunk8,Thành phố nào có sự kiện được tổ chức tại PPG Arena?,Pittsburgh
-62.txt_chunk9,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk9,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk9,Địa điểm tổ chức sự kiện có liên quan đến tài liệu là gì?,PPG Arena (có thể)
-62.txt_chunk9,Ngày tổ chức sự kiện có liên quan đến tài liệu là gì?,13 tháng 10
-62.txt_chunk10,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk10,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk10,Địa điểm tổ chức sự kiện có thể là PPG Arena?,Có
-62.txt_chunk10,Sự kiện có thể diễn ra vào ngày 13 tháng 10?,Có thể
-62.txt_chunk10,Đại học Carnegie Mellon có campus tại Pittsburgh?,Có
-62.txt_chunk10,Thành phố Pittsburgh có liên quan đến sự kiện thể thao?,Có  Q
-62.txt_chunk11,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk11,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk11,Phí tham dự sự kiện tại PPG Arena vào ngày 13 tháng 10 là bao nhiêu?,Không có thông tin cụ thể trong tài liệu
-62.txt_chunk12,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk12,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt  Q
-62.txt_chunk13,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk13,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk13,Địa điểm tổ chức sự kiện có liên quan đến tài liệu là gì?,PPG Arena
-62.txt_chunk13,Ngày tổ chức sự kiện tại PPG Arena có liên quan đến tài liệu là ngày nào?,13 tháng 10
-62.txt_chunk13,Thành phố có liên quan đến Đại học Carnegie Mellon là gì?,Pittsburgh  Q
-62.txt_chunk14,Đại học Carnegie Mellon được thành lập tại đâu?,Pittsburgh
-62.txt_chunk14,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk15,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk15,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk15,Phí tham dự sự kiện tại PPG Arena vào ngày 13 tháng 10 là bao nhiêu?,Không có thông tin cụ thể về phí tham dự sự kiện
-62.txt_chunk15,Địa điểm tổ chức sự kiện là ở đâu?,PPG Arena
-62.txt_chunk15,Thành phố nào có địa điểm tổ chức sự kiện?,Pittsburgh
-62.txt_chunk16,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk16,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk16,Địa điểm tổ chức sự kiện là ở đâu?,PPG Arena (tên thực sự có thể không rõ ràng trong tài liệu)
-62.txt_chunk17,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk17,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk17,PPG Arena nằm ở thành phố nào?,Pittsburgh
-62.txt_chunk17,Sự kiện nào đã diễn ra tại PPG Arena vào ngày 13 tháng 10?,"(Chưa rõ, cần thêm thông tin)"
-62.txt_chunk17,Đại học Carnegie Mellon có tên gọi ban đầu là gì?,
-62.txt_chunk18,Sự kiện nào được tổ chức tại PPG Arena vào ngày 13 tháng 10?,Không có thông tin cụ thể về sự kiện này trong tài liệu
-62.txt_chunk18,Thành phố nào được liên quan đến Đại học Carnegie Mellon?,Pittsburgh
-62.txt_chunk18,Đại học Carnegie Mellon được thành lập vào năm nào?,1900
-62.txt_chunk18,Địa điểm nào được liên quan đến sự kiện trong tài liệu?,PPG Arena
-62.txt_chunk18,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk19,Thành phố nào được đề cập trong tài liệu?,Pittsburgh
-62.txt_chunk19,Đại học nào được đề cập trong tài liệu?,Đại học Carnegie Mellon
-62.txt_chunk19,Sự kiện nào được tổ chức tại PPG Arena?,Không rõ (không có thông tin cụ thể về
-62.txt_chunk20,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk20,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk20,Thứ tự các ký tự trong tài liệu trên là gì?,Không thể xác định được thứ tự các ký tự
-62.txt_chunk22,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk22,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk22,Địa điểm nào được đề cập trong tài liệu?,PPG Arena
-62.txt_chunk22,Ngày cụ thể nào được đề cập trong tài liệu?,Ngày 13 tháng 10
-62.txt_chunk22,Thành phố nào được đề cập trong tài liệu?,Pittsburgh
-62.txt_chunk23,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk23,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk23,Địa điểm tổ chức sự kiện có thể liên quan đến nơi nào?,PPG Arena
-62.txt_chunk23,Thành phố nào được liên quan đến sự kiện?,Pittsburgh
-62.txt_chunk23,Ngày nào có thể liên quan đến sự kiện?,13 tháng 10
-62.txt_chunk23,Năm nào có thể liên quan đến sự kiện?,Không rõ
-62.txt_chunk24,Địa điểm nào được đề cập trong tài liệu?,"PPG Arena, Pittsburgh"
-62.txt_chunk24,Tháng 10 có bao nhiêu ngày?,31
-62.txt_chunk24,Đại học nào được đề cập trong tài liệu?,Đại học Carnegie Mellon
-62.txt_chunk24,Thành phố nào được đề cập trong tài liệu?,Pittsburgh
-62.txt_chunk25,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk25,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk25,Sự kiện nào đã diễn ra tại PPG Arena vào ngày 13 tháng 10?,Không rõ (tài liệu không cung cấp thông tin về sự kiện cụ thể)
-62.txt_chunk25,Địa điểm nào được đề cập trong tài liệu?,"PPG Arena, Pittsburgh"
-62.txt_chunk26,"Sự kiện nào được tổ chức tại địa điểm có tên là ""PPG Arena""?",Sự kiện không rõ ràng
-62.txt_chunk27,Đại học Carnegie Mellon có phải là một trong những trường đại học nổi tiếng tại Pittsburgh không?,Có
-62.txt_chunk27,Thành phố Pittsburgh có phải là một thành phố quan trọng tại bang Pennsylvania không?,Có
-62.txt_chunk27,PPG Arena có phải là một trong những sân vận động nổi tiếng tại Pittsburgh không?,Có
-62.txt_chunk28,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk28,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk28,Địa điểm tổ chức sự kiện là gì?,PPG Arena
-62.txt_chunk28,Tháng nào có sự kiện tại PPG Arena?,Tháng 10
-62.txt_chunk28,Thành phố Pittsburgh có bao nhiêu quận?,90
-62.txt_chunk28,Đại học Carnegie Mellon có bao nhiêu trường học?,9
-62.txt_chunk29,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk29,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk29,Địa điểm nào được đề cập trong tài liệu?,PPG Arena
-62.txt_chunk29,Ngày tháng nào được đề cập trong tài liệu?,13 tháng 10
-62.txt_chunk29,Người nào được đề cập trong tài liệu?,"Không rõ, nhưng có"
-62.txt_chunk30,Đại học Carnegie Mellon được thành lập năm nào?,1900
-62.txt_chunk30,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk30,Phí tham dự sự kiện tại PPG Arena vào ngày 13 tháng 10 là bao nhiêu?,Không có thông tin cụ thể trong tài liệu
-62.txt_chunk30,Địa điểm của Đại học Carnegie Mellon là ở đâu?,"Pittsburgh, Pennsylvania"
-62.txt_chunk31,Đại học Carnegie Mellon được thành lập tại thành phố nào?,Pittsburgh
-62.txt_chunk31,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
-62.txt_chunk31,Địa điểm nào thường tổ chức các sự kiện thể thao và văn hóa?,PPG Arena
-62.txt_chunk31,Thành phố Pittsburgh có diện tích khoảng bao nhiêu km2?,"151,6"
-35.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập vào thời điểm nào?,Không rõ trong tài liệu
-35.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,Không rõ trong tài liệu
-35.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở trực thuộc?,Không rõ trong tài liệu
-35.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu khoa học trực thuộc?,Không rõ trong tài liệu
-40.txt_chunk1,"Đại học Quốc gia Hà Nội tổ chức Hội nghị Khoa học, công nghệ và đổi mới sáng tạo thường niên năm 2023 vào ngày nào?",15/6/2023
-40.txt_chunk1,Giám đốc Đại học Quốc gia Hà Nội Lê Quân đồng chủ trì hội nghị với ai?,Phó Giám đốc ĐHQGHN Phạm Bảo Sơn và Trưởng ban Khoa học - Công nghệ ĐHQGHN Vũ Văn Tích
-40.txt_chunk2,ĐHQGHN có tên trong danh sách 70 cơ sở giáo dục hàng đầu thế giới về giáo dục có chất lượng vào năm nào?,2022
-40.txt_chunk2,Giám đốc ĐHQGHN Lê Quân đề nghị triển khai các chính sách đột phá trong lĩnh vực KH&CN vào thời điểm nào?,Hội nghị Giám đốc ĐHQGHN
-40.txt_chunk2,ĐHQGHN thu hút được hơn 100 nhà khoa học trẻ trình độ cao về làm việc vào năm nào?,2022
-40.txt_chunk3,"Ông Nguyễn Nam Hải, Vụ trưởng Vụ Kế hoạch - Tài chính, Bộ KH&CN, đang tham gia hội nghị nào?",Hội nghị về đổi mới tư duy và phát triển khoa học công nghệ
-40.txt_chunk3,"Ông Nguyễn Nam Hải, Vụ trưởng Vụ Kế hoạch - Tài chính, Bộ KH&CN, nhấn mạnh tầm quan trọng của việc gì?",Tạo môi trường thuận lợi cho các nhà khoa học
-40.txt_chunk4,Thứ trưởng Bộ KH&CN Nguyễn Hoàng Giang phát biểu tại hội nghị nào?,"Hội nghị Thứ trưởng Bộ KH&CN Nguyễn Hoàng Giang đề nghị ĐHQGHN cần phát huy vai trò, sứ mệnh của mình để triển khai thực hiện Chiến lược phát triển khoa học, công nghệ và đổi mới sáng tạo quốc gia"
-40.txt_chunk4,Đại học Quốc gia Hà Nội được thành lập ở đâu?,Không có thông tin trong tài liệu về việc thành lập của Đại học Quốc gia Hà Nội
-40.txt_chunk5,Hội nghị được tổ chức tại đâu?,ĐHQGHN (Đại học Quốc gia Hà Nội)
-40.txt_chunk5,Tập đoàn T&T đã trao tài trợ hỗ trợ thành lập Công ty cổ phần đầu tư phát triển ĐHQGHN (VNUHN-Holdings) trị giá bao nhiêu?,5 tỷ đồng
-21.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,"Không rõ, cần xem lại tài liệu"
-21.txt_chunk1,Thành phố Hà Nội nằm ở khu vực nào?,"Đông Bắc hoặc Đông Nam, không rõ cụ thể, cần xem lại tài liệu"
-21.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu khoa học?,"Không rõ, cần xem lại tài liệu"
-21.txt_chunk1,Thành phố Hà Nội có diện tích khoảng bao nhiêu km2?,"Không rõ, cần xem"
-21.txt_chunk2,"Thời gian chậm nhất để thông báo kết quả kiểm tra hoặc nộp tiểu luận, bài tập lớn là bao lâu?",Một tuần
-21.txt_chunk2,Trọng số tối thiểu của điểm thi kết thúc môn học là bao nhiêu phần trăm?,60%
-21.txt_chunk2,Hình thức thi kết thúc môn học có thể bao gồm các hình thức nào sau đây?,"Thi viết, vấn đáp, làm thực tập hoặc kết hợp các hình thức trên"
-21.txt_chunk3,Lịch thi của kỳ thi chính phải được thông báo trước bao lâu?,ít nhất 1 tháng
-21.txt_chunk3,Số cán bộ coi thi tối thiểu cho phòng thi dưới 25 sinh viên là bao nhiêu?,1
-21.txt_chunk3,Số cán bộ coi thi tối thiểu cho phòng thi trên 25 sinh viên là bao nhiêu?,2
-21.txt_chunk3,Số lượng đề thi trong bộ đề thi của môn thi vấn đáp là bao nhiêu?,nhiều
-21.txt_chunk4,Chủ nhiệm khoa hoặc Chủ nhiệm bộ môn (đối với Khoa trực thuộc) đề nghị điều gì?,"Khoá luận, đồ án tốt nghiệp"
-21.txt_chunk4,"Điểm khoá luận, đồ án tốt nghiệp được thông báo công khai khi nào?","Chậm nhất một tuần sau khi các Hội đồng chấm khóa luận, đồ án tốt nghiệp hoàn thành nhiệm vụ"
-21.txt_chunk5,Ký hiệu I trong hệ thống đánh giá mức điểm của sinh viên đại học có nghĩa là gì?,Chưa đủ điểm đánh giá bộ phận
-21.txt_chunk5,Ký hiệu X trong hệ thống đánh giá mức điểm của sinh viên đại học có nghĩa là gì?,Chưa nhận được kết quả thi kết thúc môn học
-21.txt_chunk6,"Học kỳ nào được dùng để xét buộc thôi học, xếp loại học lực, xếp hạng tốt nghiệp?",Học kỳ chính
-21.txt_chunk6,Điều 49 của quy chế này liên quan đến việc gì?,Xử lý học vụ
-21.txt_chunk6,Khi nào đơn vị đào tạo thực hiện xử lý học vụ?,Sau mỗi học kỳ chính
-18.txt_chunk1,Trường Đại học Giáo dục được thành lập vào ngày tháng năm nào?,03/04/2009
-18.txt_chunk1,Thành phố Hà Nội có liên quan đến việc thành lập trường Đại học Giáo dục như thế nào?,Hà Nội là nơi đặt trụ sở của trường Đại học Giáo dục
-18.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu thành viên?,"Có ít nhất một thành viên, đó là Trường Đại học Giáo dục"
-18.txt_chunk2,Trường Đại học Giáo dục – ĐHQGHN được thành lập theo Quyết định số 1481/TCCB vào ngày nào?,21/12/1999
-18.txt_chunk2,Khoa Sư phạm được chính thức thành lập theo Quyết định số 1481/TCCB của Giám đốc ĐHQGHN vào ngày nào?,21/12/1999
-18.txt_chunk3,Đại học Quốc gia Hà Nội được thành lập tại thành phố nào?,Hà Nội
-18.txt_chunk3,Đại học Quốc gia Hà Nội có trường đại học Giáo dục?,Có
-18.txt_chunk3,Đại học Quốc gia Hà Nội có trường đại học và cao đẳng công lập tại Việt Nam?,Có
-46.txt_chunk1,Trường ĐHKHTN đã triển khai áp dụng phương thức đào tạo tín chỉ từ năm nào?,2007
-46.txt_chunk1,Trường ĐHKHTN đã chuyển đổi toàn bộ khung chương trình đào tạo ở bậc đại học và sau đại học để phù hợp với phương thức đào tạo tín chỉ từ năm nào?,2010
-46.txt_chunk1,Số lượng sinh viên hệ đại học chính quy của Trường ĐHKHTN hàng năm giữ ổn định là bao nhiêu?,"Không rõ ràng trong tài liệu, nhưng có"
-46.txt_chunk2,Trường ĐHKHTN đã thực hiện đề án đào tạo ngành Hóa học với đối tác là trường đại học nào?,Trường đại học Illinois at Urbana and Champaign (Hoa Kỳ)
-46.txt_chunk2,"Năm 2007, Trường đã tổng kết bao nhiêu năm đào tạo CNKHTN?",10 năm
-46.txt_chunk2,Số lượng sinh viên tốt nghiệp của Trường ĐHKHTN thường xuyên được chuyển tiếp học sau đại học là khoảng bao nhiêu phần trăm?,50%
-46.txt_chunk3,Trường Đại học Khoa học Tự nhiên được thành lập từ bao lâu?,Hơn 55 năm
-46.txt_chunk3,Trường Đại học Khoa học Tự nhiên quản lý và tổ chức đào tạo bao nhiêu chuyên ngành đào tạo thạc sĩ?,46
-46.txt_chunk3,Trường Đại học Khoa học Tự nhiên quản lý và tổ chức đào tạo bao nhiêu chuyên ngành đào tạo tiến sĩ?,48
-57.txt_chunk1,Đại học Quốc gia Hà Nội (ĐHQGHN) tuyển sinh bao nhiêu chỉ tiêu đại học chính quy năm 2024?,18.000
-57.txt_chunk1,ĐHQGHN tuyển sinh trên phạm vi cả nước và quốc tế vào bao nhiêu ngành/CTĐT?,148
-57.txt_chunk1,"Năm 2024, ĐHQGHN mở bao nhiêu CTĐT mới?",07
-57.txt_chunk1,Địa chỉ trang thông tin điện tử của ĐHQGHN là gì?,http://v
-57.txt_chunk2,Đại học Quốc gia Hà Nội có bao nhiêu phương thức tuyển sinh?,5 phương thức
-57.txt_chunk2,Mã đăng ký của ĐHQGHN với tổ chức thi SAT là gì?,7853-Vietnam National University-Hanoi
-57.txt_chunk2,Thí sinh cần đạt tối thiểu bao nhiêu điểm trong kỳ thi chuẩn hóa ACT để được xét tuyển?,22/36 điểm
-57.txt_chunk2,Có bao nhiêu tổ hợp môn xét tuyển đại học năm 2024 của ĐHQGHN?,39 tổ
-57.txt_chunk3,Ngưỡng đầu vào đối với thí sinh sử dụng chứng chỉ A-Level tổ hợp kết quả 3 môn thi theo các khối thi quy định của ngành đào tạo tương ứng là bao nhiêu?,Đảm bảo mức điểm mỗi môn thi đạt tối thiểu 60/100 điểm trở lên
-57.txt_chunk3,Ngưỡng đầu vào đối với thí sinh sử dụng chứng chỉ tiếng Anh IELTS là bao nhiêu?,Tối thiểu 5.5
-57.txt_chunk4,Thí sinh nộp hồ sơ xét tuyển thẳng và ưu tiên xét tuyển theo Điều 8 Quy chế tuyển sinh về đơn vị đào tạo trước khi nào?,trước 17h 00 ngày 30/6/2024
-57.txt_chunk4,Thời gian thí sinh xác nhận nhập học trên Hệ thống của Bộ GD&ĐT?,từ ngày 22-31/7/2024
-57.txt_chunk4,Thời gian nộp lệ phí xét tuyển trực tuyến?,từ ngày 31/7/2024 đến
-57.txt_chunk5,"Thí sinh đoạt giải nhất, nhì, ba trong kỳ thi chọn học sinh giỏi quốc gia có thể được xét tuyển thẳng vào bậc đại học của ĐHQGHN theo ngành phù hợp với môn thi là bao nhiêu?",Có thể
-57.txt_chunk5,Thí sinh đạt giải chính thức trong các kỳ thi Olympic bậc THPT của ĐHQGHN có thể được ưu tiên xét tuyển vào bậc đại học tại ĐHQGHN nếu đáp ứng các tiêu chí sau?,Có
-57.txt_chunk6,"Năm 2021, Thủ tướng chính phủ quy định về cơ chế thu, quản lý học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân và chính sách miễn, giảm học phí, hỗ trợ chi phí học tập là năm nào?",2021
-57.txt_chunk6,Số lượng chỉ tiêu tuyển sinh bằng kép dành cho ĐHQGHN năm 2024 là bao nhiêu?,875
-57.txt_chunk7,ĐHQGHN được xếp hạng ở vị trí nào trong bảng xếp hạng QS World University Rankings: Sustainability 2025?,325 thế giới
-57.txt_chunk7,Kỳ xếp hạng QS World University Rankings: Sustainability 2025 bao gồm bao nhiêu cơ sở giáo dục đại học?,1.751
-57.txt_chunk8,ĐHQGHN lần thứ 4 liên tiếp đứng trong nhóm 801-1000 các trường đại học tốt nhất toàn cầu vào thời điểm nào?,Ngày 09/6/2021
-57.txt_chunk8,"ĐHQGHN có điểm xếp hạng tăng dần trong ba lần xếp hạng trước, bao gồm năm nào?","2019, 2020, 2021"
-56.txt_chunk1,Đại học Khoa học Xã hội và Nhân văn (ĐHKHXH&NV) được thành lập vào năm nào?,1945
-56.txt_chunk1,"Số lượng sinh viên, học viên của ĐHKHXH&NV là bao nhiêu?",~11.000
-56.txt_chunk1,ĐHKHXH&NV có một tạp chí Khoa học Xã hội và Nhân văn được nâng điểm trong danh mục TCKH được tính điểm của Hội đồng Giáo sư Nhà nước vào thời điểm nào?,
-56.txt_chunk2,Trường Đại học Khoa học Xã hội và Nhân văn có địa chỉ ở đâu?,"336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
-56.txt_chunk2,Số lượng chương trình đào tạo của Trường Đại học Khoa học Xã hội và Nhân văn là bao nhiêu?,"28 chương trình cử nhân/kĩ sư, 36 chương trình thạc sĩ, 31 chương trình tiến sĩ"
-28.txt_chunk1,"Năm 2019, Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội (ĐHQGHN) có học bổng gì dành cho thủ khoa ngành Kinh tế – Tài chính?",ULIS-SNHU TALENT
-28.txt_chunk1,Ngành Kinh tế – Tài chính của Trường Đại học Ngoại ngữ – ĐHQGHN được khen ngợi trong kì thi tuyển sinh đại học chính quy năm 2019.,Có
-28.txt_chunk2,Học bổng ULIS-SNHU STAR-UP dành cho sinh viên nào?,Sinh viên có điểm thi THPTQG cao (sau thủ khoa) và các sinh viên đạt trình độ tiếng Anh B2 trở lên
-28.txt_chunk2,Số tiền học bổng ULIS-SNHU STAR-UP là bao nhiêu?,15.000.000đ
-23.txt_chunk1,Kỳ thi tuyển sinh vào lớp 10 sẽ diễn ra vào ngày nào?,10 - 11/6
-23.txt_chunk1,Số học sinh lớp 9 năm học 2022-2023 là bao nhiêu?,129.210
-23.txt_chunk1,Số học sinh có chỗ học lớp 10 công lập là bao nhiêu?,72.000
-23.txt_chunk1,Tỷ lệ học sinh có chỗ học lớp 10 công lập là bao nhiêu?,"55,7%"
-23.txt_chunk2,Năm học hiện tại của em có bao nhiêu lớp học?,3 lớp
-23.txt_chunk2,Số lượng học sinh có cơ hội đỗ vào lớp 10 công lập chiếm tỷ lệ thấp nhất trong 4 năm trở lại đây?,Năm nay
-23.txt_chunk2,Số chỉ tiêu học sinh vào trường THPT công lập so với năm trước là bao nhiêu?,1.000
-23.txt_chunk2,Địa phương có tỷ lệ chọi lớp 10 vào 114 trường công lập được công bố?,TP.HCM
-23.txt_chunk3,Tỷ lệ chọi vào lớp 10 chuyên Anh Trường Chuyên Sư phạm 1 là bao nhiêu?,1 'chọi' hơn 29
-23.txt_chunk3,Tỷ lệ chọi vào lớp 10 trường chuyên nóng nhất TP.HCM là bao nhiêu?,1 'chọi' 5
-23.txt_chunk3,Số lượng trường chuyên được đề cập trong bài báo là bao nhiêu?,2
-23.txt_chunk3,Tên của tạp chí được đề cập trong bài báo là gì?,Báo VietNam
-68.txt_chunk1,Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội có địa chỉ tại đâu?,"Nhà G7, Đại học Quốc gia Hà Nội, số 144 Xuân Thủy, Cầu Giấy, Hà Nội"
-68.txt_chunk1,Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội là gì?,0243 754 7716 | 0981290448
-68.txt_chunk2,Đại học nào đào tạo chương trình Thạc sĩ Công nghiệp văn hóa và sáng tạo?,Đại học Quốc gia Hà Nội (VNU)
-68.txt_chunk2,Chương trình đào tạo nào liên quan đến biến đổi khí hậu và phát triển bền vững?,Tiến sĩ Biến đổi khí hậu và Phát triển bền vững
-68.txt_chunk2,Địa điểm nào tổ chức trải nghiệm thực tế cho sinh viên?,Không rõ (không có thông tin cụ thể trong tài liệu)
-15.txt_chunk1,Trường Đại học Quốc Gia Hà Nội thuộc trường đứng đầu các cơ sở giáo dục đại học Việt Nam theo bảng xếp hạng quốc tế UniRank?,Có
-15.txt_chunk1,"Năm 2020, trường tuyển sinh thêm rất nhiều ngành nghề để đáp ứng nhu cầu lao động của thị trường trong và ngoài nước?",Có
-15.txt_chunk1,Địa chỉ của Trường Đại học Quốc gia Hà Nội là ở đâu?,"144 đường Xuân Thủy, Quận Cầu Giấy, Hà Nội"
-15.txt_chunk2,Đại học Quốc Gia Hà Nội có mã trường là gì?,QHY
-15.txt_chunk2,Địa chỉ của Khoa Quốc tế (ĐHQG Hà Nội) là gì?,"Nhà G7, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
-15.txt_chunk2,Thời gian xét tuyển đợt 1 của Trường Đại học Quốc Gia Hà Nội là gì?,Đối với thí sinh đăng ký xét tuyển thẳng thực hiện theo Hướng dẫn của Bộ GD&ĐT và hướng dẫn tuyển sinh Đại học Chính quy
-15.txt_chunk3,Trường Đại học Quốc Gia Hà Nội tuyển sinh trong phạm vi cả nước và quốc tế hay không?,Có
-15.txt_chunk3,Phương thức xét tuyển của trường Đại học Quốc Gia Hà Nội bao gồm các phương thức nào?,"Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ Giáo Dục và Đào tạo cũng như Quy định đặc thù của trường và xét tuyển theo kết quả thi Trung học Phổ thông năm 2020 và các phương thức khác"
-15.txt_chunk4,Thí sinh có thể đăng ký xét tuyển tối đa bao nhiêu nguyện vọng vào trường/khoa trực thuộc?,02
-15.txt_chunk4,Thí sinh phải sắp xếp nguyện vọng theo thứ tự ưu tiên từ cao xuống thấp trong đó nguyện vọng 1 là nguyện vọng cao nhất.,Có
-15.txt_chunk4,Thí sinh chỉ chấp nhận trúng tuyển vào một nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký.,Có
-15.txt_chunk5,Trường Đại học Quốc Gia Hà Nội tổ chức xét tuyển thẳng và ưu tiên xét tuyển trước ngày nào?,01/8/2020
-15.txt_chunk5,"Thời gian tổ chức xét tuyển thẳng, ưu tiên xét tuyển của Trường Đại học Quốc Gia Hà Nội là bao lâu?",Trước ngày 20/8/2020
-15.txt_chunk5,Trường Đại học Quốc Gia Hà Nội phải báo cáo kết quả xét tuyển cho Ban Chỉ đạo tuyển sinh trước khi nào?,20/8/2020
-15.txt_chunk6,Trạng thái của trang web TuyenSinh.com.vn là gì?,"Trang web này có thể là một trang thông tin, một trang giáo dục hoặc một trang thương mại"
-15.txt_chunk6,Địa chỉ của trang web TuyenSinh.com.vn là gì?,Trang web này có thể được lưu trữ tại Việt Nam
-15.txt_chunk6,Các lĩnh vực mà trang web TuyenSinh.com.vn cung cấp thông tin bao gồm những gì?,"Các lĩnh vực như Đại Học, Cao đẳng,"
-34.txt_chunk1,ĐHQGHN được thành lập năm nào?,"Không rõ ràng, nhưng có thể liên quan đến thông tin về ""Website kỷ niệm 100 năm ĐHQGHN"""
-34.txt_chunk1,ĐHQGHN có bao nhiêu trường đại học thành viên?,"Không rõ ràng, nhưng có thể liên quan đến thông tin về ""Các trường đại học thành viên"""
-34.txt_chunk1,ĐHQGHN có bao nhiêu đơn vị nghiên cứu khoa học?,"Không rõ ràng, nhưng có thể liên quan đến thông tin về"
-34.txt_chunk2,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập ở khu đô thị nào?,"Khu đô thị Hoà Lạc, Thạch Thất, Hà Nội"
-34.txt_chunk2,Đại học Quốc gia Hà Nội (ĐHQGHN) có giấy phép số gì của Sở Thông tin và Truyền thông Hà Nội?,993/GP-TTĐT
-34.txt_chunk2,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập vào thời điểm nào?,Không có thông
-30.txt_chunk1,"Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN (VNU-USSH) thông báo kế hoạch tuyển sinh đại học hệ chính quy các chương trình đào tạo (CTĐT) ngành thứ hai năm 2024 (đợt 2) vào ngày nào?",08/11/2024
-30.txt_chunk2,Kỳ thi Olympic VNU năm 2024-2025 sẽ diễn ra vào ngày nào?,27/10/2024
-30.txt_chunk2,"Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội đã đào tạo chương trình Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam từ kỳ tuyển sinh đợt 2 năm bao nhiêu?",2024
-30.txt_chunk3,Khi nào Bộ Giáo dục và Đào tạo công bố kết quả tốt nghiệp THPT năm 2024?,Ngày 17/7/2024
-30.txt_chunk3,Đợt đăng ký xét tuyển Đại học năm 2024 kết thúc vào ngày nào?,30/7/2024
-30.txt_chunk3,"Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN tổ chức Ngày hội ""Lựa chọn nguyện vọng xét tuyển đại học, cao đẳng năm 2024"" vào ngày nào?",Không
-30.txt_chunk4,Trường Đại học Khoa học Xã hội và Nhân văn (USSH) được thành lập ở đâu?,Hà Nội
-30.txt_chunk4,USSH được thành lập vào năm nào?,Không rõ trong tài liệu
-30.txt_chunk4,Địa chỉ của USSH là gì?,"336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
-30.txt_chunk4,USSH có bao nhiêu phòng đơn vị hành chính?,Không rõ trong tài liệu
-30.txt_chunk4,USSH có bao nhiêu đơn vị đào tạo?,Không
-30.txt_chunk5,Sự kiện Job fair Hợp tác - Phát triển Dự án quốc tế diễn ra ở đâu?,Có thể liên quan đến nhiều địa điểm khác nhau
-30.txt_chunk5,Thời gian chờ đợi để duy trì trạng thái đăng nhập là bao lâu?,60 giây
-30.txt_chunk5,Giáo sư thỉnh giảng tham gia sự kiện này từ quốc gia nào?,Không có thông tin cụ thể
-63.txt_chunk1,Đại học Vietnam Japan University (VJU) là trường đại học nào?,VJU là trường đại học được thành lập tại Việt Nam
-63.txt_chunk1,VJU có các chương trình đào tạo nào?,"VJU có các chương trình đào tạo Đại học, Thạc sĩ, Tiến sĩ"
-63.txt_chunk1,VJU có cơ sở vật chất gì?,VJU có cơ sở vật chất
-63.txt_chunk2,Trường Đại học Việt Nhật có cơ sở tại thành phố nào?,Hà Nội
-63.txt_chunk2,Đại học Việt Nhật có hai cơ sở tại Hà Nội và?,Hòa Lạc
-63.txt_chunk2,Chương trình đào tạo của Đại học Việt Nhật bao gồm nhiều lĩnh vực như?,"Công nghệ thông tin, kỹ thuật xây dựng, nông nghiệp thông minh, công nghệ thực phẩm, quản trị kinh doanh, và nhiều lĩnh vực khác"
-63.txt_chunk3,Đại học VJU (Viện Nghiên cứu và Đào tạo) được thành lập tại khu vực nào?,"VNU-LIC, VJU"
-63.txt_chunk3,Đại học VJU có khuôn viên và cơ sở vật chất tại khu vực nào?,Khuôn viên và cơ sở vật chất của VJU
-63.txt_chunk3,Đại học VJU có thể hợp tác với các đối tác đại học tại khu vực nào?,Quốc tế
-2.txt_chunk1,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập vào năm nào?,"(Không rõ trong tài liệu, nhưng có thể tìm kiếm thông tin này từ các nguồn khác)"
-2.txt_chunk1,Vị trí tuyển dụng của ĐHQGHN có bao nhiêu vị trí?,"(Không rõ trong tài liệu, nhưng có thể tìm kiếm thông tin này từ các nguồn khác)"
-2.txt_chunk1,ĐHQGHN có bao nhiêu trường đại học thành viên?,"(Không rõ trong tài liệu, nhưng có thể tìm"
-2.txt_chunk2,Trường đại học Đông Dương được thành lập vào năm nào?,1906
-2.txt_chunk2,Trường đại học Quốc gia Việt Nam được thành lập trên cơ sở kế thừa Trường đại học Đông Dương vào năm nào?,1945
-2.txt_chunk2,Trường đại học Tổng hợp Hà Nội được thành lập vào năm nào?,1956
-2.txt_chunk2,Trường đại học Sư phạm Ngoại ngữ Hà Nội được thành lập vào năm nào?,1967
-2.txt_chunk3,Trường ĐH Đông Dương được thành lập vào năm nào?,1906
-2.txt_chunk3,Trường ĐHQG Việt Nam được thành lập vào ngày nào?,15/11/1945
-2.txt_chunk3,Trường Khoa học Cơ bản được thành lập tại đâu?,Chiến khu Việt Bắc
-2.txt_chunk3,Trường ĐHTH Hà Nội được thành lập trên cơ sở các trường tiền thân nào?,"Trường ĐH Đông Dương, Trường ĐHQG Việt Nam và Trường Khoa học Cơ"
-2.txt_chunk4,ĐHQGHN có bao nhiêu trường đại học trực thuộc?,6
-2.txt_chunk4,ĐHQGHN có bao nhiêu khoa trực thuộc?,5
-2.txt_chunk4,ĐHQGHN có bao nhiêu viện nghiên cứu?,4
-2.txt_chunk4,ĐHQGHN có bao nhiêu trung tâm đào tạo và nghiên cứu?,10
-2.txt_chunk4,ĐHQGHN có bao nhiêu đơn vị phục vụ đào tạo?,10
-12.txt_chunk1,Trường Quốc tế - ĐHQGHN có bao nhiêu khoa trực thuộc?,6 khoa trực thuộc
-12.txt_chunk1,Khoa nào tại Trường Quốc tế - ĐHQGHN chuyên về kinh doanh quốc tế?,Khoa Kinh tế và Quản lý
-12.txt_chunk1,Trường Quốc tế - ĐHQGHN có chương trình đào tạo dự bị và bằng kép tiếng Anh không?,Có
-12.txt_chunk2,Trường Quốc tế hiện đang đào tạo bao nhiêu chương trình cử nhân liên kết với các trường đại học đối tác nước ngoài uy tín?,3
-12.txt_chunk2,Thời gian thiết kế của khóa học từ bao lâu đến bao lâu?,"3,5 đến 4 năm"
-12.txt_chunk2,Ngôn ngữ giảng dạy của chương trình là ngôn ngữ nào?,tiếng Anh
-12.txt_chunk2,Địa chỉ của Trường Quốc tế là ở đâu?,Tại Hà Nội
-0.txt_chunk1,Đại học Quốc gia Hà Nội (ĐHQGHN) chuyển trụ sở làm việc từ đâu đến Hòa Lạc?,Cầu Giấy
-0.txt_chunk1,Ngày 19/5/2025 đánh dấu tròn bao nhiêu năm ĐHQGHN chính thức chuyển trụ sở làm việc từ Cầu Giấy tới Hòa Lạc?,3
-0.txt_chunk2,Khi nào ĐHQGHN tổ chức tọa đàm “Định hướng chiến lược nghiên cứu khoa học và đào tạo nhân lực ngành công nghiệp bán dẫn”?,Trong hai ngày 18 & 19/5/2025
-0.txt_chunk2,Tại sao ĐHQGHN di dời các trường đại học ra khỏi nội đô?,"Để mở ra một không gian phát triển mới, tạo những đột phá trong đào tạo, nghiên cứu khoa học, chuyển giao công nghệ  Q"
-0.txt_chunk3,Trường Đại học Khoa học Tự nhiên Trường Đại học Khoa học Xã hội & Nhân văn Trường Đại học Ngoại ngữ Trường Đại học Công nghệ Trường Đại học Kinh tế Trường Đại học Giáo dục Trường Đại học Việt Nhật Trường Đại học Y Dược Trường Đại học Luật có bao nhiêu đơn vị thành viên?,Có 10 đơn vị thành viên
-9.txt_chunk1,Trường Đại học Giáo dục được thành lập trong thời gian nào?,20 năm truyền thống và 10 năm thành lập
-9.txt_chunk1,Địa điểm chính của Trường Đại học Giáo dục là ở đâu?,Đại học Quốc gia Hà Nội
-9.txt_chunk1,"Khoa nào tại Trường Đại học Giáo dục có tên là ""Khoa Sư phạm""?",Có
-9.txt_chunk1,Trường Đại học Giáo dục có bao nhiêu đơn vị đào tạo?,Có 7 đơn vị đào tạo  Q
-9.txt_chunk2,Đại học Quốc gia Hà Nội ban hành quy chế đào tạo đại học vào ngày nào?,21/10/2022
-9.txt_chunk2,Thành phố Hà Nội thuộc khu vực nào?,Châu Á
-9.txt_chunk2,Đại học Carnegie Mellon được thành lập năm nào?,1900
-9.txt_chunk2,Thời gian đào tạo của chương trình đại học tại Đại học Quốc gia Hà Nội là bao lâu?,4 năm
-9.txt_chunk3,Đại học Quốc gia Hà Nội có Quyết định số 3079/QĐ-ĐHQGHN được ban hành vào ngày nào?,26/12/2010
-9.txt_chunk3,Quyết định số 1555/QĐ-ĐHQGHN được ban hành vào ngày nào?,25/5/2011
-9.txt_chunk3,Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy được công bố vào thời điểm nào?,Không rõ ràng trong tài liệu  Q
-9.txt_chunk4,Trường đại học giáo dục có địa chỉ ở đâu?,"Nhà G7, số 144 Xuân Thủy"
-9.txt_chunk4,Điện thoại của Trường đại học giáo dục là số nào?,(024) 7301 7123
-9.txt_chunk4,Email của Trường đại học giáo dục là gì?,education@vnu.edu.vn
-9.txt_chunk4,Trường đại học giáo dục có liên kết với trường đại học nào khác?,Đại học Quốc gia Hà Nội (VNU)
-50.txt_chunk1,"Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN tổ chức Lễ trao Quyết định Ban hành và giao nhiệm vụ Đào tạo Chương trình trình độ Tiến sĩ ngành Việt Nam học vào ngày nào?",26/10/2024
-50.txt_chunk1,"Trường Đại học Khoa học Xã hội và Nhân văn, Đại học Quốc gia Hà Nội đào tạo tiến sĩ theo quy chế được ban hành vào ngày nào?",21/10/2022
-50.txt_chunk2,Trường Đại học Khoa học Xã hội và Nhân văn (USSH) được thành lập tại địa điểm nào?,"336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
-50.txt_chunk2,"Năm nào, Trường Đại học Khoa học Xã hội và Nhân văn (USSH) được thành lập?",Không rõ ràng trong tài liệu
-50.txt_chunk2,NCS Mai Thu Quỳnh đã bảo vệ luận án tiến sĩ về chủ đề gì?,Quan hệ Đối tác chiến lược Hàn Quốc – Trung Quốc
-64.txt_chunk1,Năm tuyển sinh được đề cập trong thông báo tuyển sinh là năm nào?,2018
-64.txt_chunk2,Trường Đại học Việt Nhật có trụ sở chính tại đâu?,Hà Nội
-64.txt_chunk2,Số điện thoại của Trường Đại học Việt Nhật là bao nhiêu?,(+84) 966 954 736 (+84) 969 638 426
-64.txt_chunk2,Địa chỉ của Trường Đại học Việt Nhật tại Hà Nội là gì?,"đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
-64.txt_chunk3,Đại học VJU (VJU) được thành lập tại khu vực nào?,Khuôn viên và cơ sở vật chất của VJU
-64.txt_chunk3,Khi nào có thông báo về chương trình tuyển sinh tại VJU?,Cập nhật tuyển sinh
-64.txt_chunk3,VJU có hợp tác với các đối tác đại học nào?,Đối tác đại học
-64.txt_chunk3,Đại học VJU có cơ sở vật chất gì?,Khuôn viên và cơ
-45.txt_chunk1,"Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN tổ chức Lễ trao Quyết định Ban hành và giao nhiệm vụ Đào tạo Chương trình trình độ Tiến sĩ ngành Việt Nam học vào ngày nào?",26/10/2024
-45.txt_chunk1,"Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN tổ chức Kỳ thi Olympic bậc THPT của ĐHQGHN năm 2024 vào ngày nào?",27/10/2024
-45.txt_chunk2,Kỳ thi Olympic VNU năm 2024-2025 diễn ra vào ngày nào?,27/10/2024
-45.txt_chunk2,Vị trí Quán quân của Vòng Chung kết “Đại sứ Văn hóa Du lịch sinh viên năm 2024” là ai?,Vi Thị Thuỳ Trang
-45.txt_chunk2,Chương trình Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh tại trường nào?,Trường Đại học Khoa học Xã hội và
-45.txt_chunk3,"Trường Đại học Khoa học Xã hội và Nhân văn (KHXH&NV) - Đại học Quốc gia Hà Nội có tổ chức ngày hội ""Lựa chọn nguyện vọng xét tuyển đại học, cao đẳng năm 2024"" không?",Có
-45.txt_chunk3,"Ngày hội ""Lựa chọn nguyện vọng xét tuyển đại học, cao đẳng năm 2024” được tổ chức vào ngày nào?",Ngày 20/7 tới đây
-45.txt_chunk4,Trường Đại học Khoa học Xã hội và Nhân văn được thành lập tại địa điểm nào?,"336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
-45.txt_chunk4,Trường Đại học Khoa học Xã hội và Nhân văn có tên miền là ussh.edu.vn,Có
-45.txt_chunk4,Trường Đại học Khoa học Xã hội và Nhân văn được thành lập vào thời điểm nào?,"Không rõ ràng trong tài liệu, nhưng có thể liên quan đến lịch sử phát triển của trường"
-45.txt_chunk5,Sự kiện Job fair được tổ chức tại đâu?,"Không rõ, vì tài liệu không cung cấp thông tin cụ thể về địa điểm"
-45.txt_chunk5,Giáo sư thỉnh giảng có thể tham gia dự án quốc tế từ khi nào?,"Không rõ, vì tài liệu không cung cấp thông tin cụ thể về thời gian"
-45.txt_chunk5,Dự án quốc tế có thể được phát triển tại các thành phố nào?,"Không rõ, vì tài liệu không cung cấp thông tin cụ thể về địa điểm."
-29.txt_chunk1,Trường ĐHKHTN được thành lập dựa trên sự tiếp nối và kế thừa từ trường nào?,Trường ĐHTH Hà Nội - Trường đại học đầu tiên và lớn nhất của đất nước
-29.txt_chunk1,Địa chỉ của Trường ĐHKHTN là ở đâu?,"334 Nguyễn Trãi, Thanh Xuân, Hà Nội"
-29.txt_chunk1,Số điện thoại của Trường ĐHKHTN là bao nhiêu?,(84) 0243-8584615 / 858141
-60.txt_chunk1,Trường Đại học Việt Nhật nằm ở đâu?,Đại học Quốc gia Hà Nội
-60.txt_chunk1,Phương thức tuyển sinh của Trường Đại học Việt Nhật bao gồm những gì?,"Thông báo tuyển sinh, Ngưỡng điểm trúng tuyển, Đề án tuyển sinh, Danh mục ngành, Điều kiện đảm bảo chất lượng, Quy chế tuyển sinh của ĐHQGHN, Hướng dẫn đăng ký, Hạn nộp hồ sơ, Quy trình tuyển sinh, Hồ sơ dự tuyển, Lệ phí và thanh toán, Học phí,"
-60.txt_chunk2,Trường Đại học Việt Nhật (VNU-VJU) được thành lập theo Quyết định nào?,Quyết định 1186/QĐ-TTg
-60.txt_chunk2,Trường Đại học Việt Nhật được thành lập dựa trên ý tưởng chung của nhiều đời lãnh đạo cấp cao của hai nước nào?,Việt Nam và Nhật Bản
-60.txt_chunk2,"Trường Đại học Việt Nhật được định hướng phát triển theo mô hình đại học nghiên cứu, tập trung vào hai lĩnh vực mũi nhọn nào?",Công nghệ kỹ thuật tiên
-60.txt_chunk3,Trường Đại học Việt Nhật có cơ sở tại Hà Nội và ở đâu khác?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
-60.txt_chunk3,Số điện thoại của Trường Đại học Việt Nhật là?,(+84) 966 954 736 (+84) 969 638 426
-60.txt_chunk3,Email liên hệ của Trường Đại học Việt Nhật là?,"admission@vju.ac.vn, info@vju.ac.vn"
-13.txt_chunk1,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập vào năm nào?,"Tài liệu không cung cấp thông tin về năm thành lập của ĐHQGHN, nhưng nó được biết đến là một trong những trường đại học lâu đời và uy tín tại Việt Nam"
-13.txt_chunk1,ĐHQGHN có bao nhiêu trường đại học thành viên?,"Tài liệu không cung cấp thông tin về số lượng trường đại học thành viên của ĐHQGHN, nhưng nó có nhiều trường đại học trực thuộc và các"
-13.txt_chunk2,Ngày nào Giám đốc ĐHQGHN đã ra Quyết định số 1366/QĐ-ĐHQGHN về việc ban hành Quy định về mở mới và điều chỉnh chương trình đào tạo ở Đại học Quốc gia Hà Nội?,25/04/2012
-13.txt_chunk2,Địa điểm nào là nơi đặt trụ sở của Đại học Quốc gia Hà Nội?,"Khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội"
-10.txt_chunk1,"Quy chế đào tạo tiến sĩ ở ĐHQGHN năm 2022 có cơ chế mở cho người học và nâng cao chất lượng đầu ra, yêu cầu công bố quốc tế với nghiên cứu sinh không?",Có
-10.txt_chunk1,Trường Quản trị Và Kinh Doanh ở ĐHQGHN có tên là Trường nào?,Trường Quản trị Và Kinh Doanh
-10.txt_chunk1,"Năm 2024, Đại học chính quy của ĐHQGHN có thông tin tuyển sinh chưa?",Có
-10.txt_chunk2,Đại học Quốc gia Hà Nội có Quy chế đào tạo Tiến sĩ mới được ban hành vào ngày nào?,21/10/2022
-10.txt_chunk2,Quy chế đào tạo Tiến sĩ mới của ĐHQGHN có bao nhiêu chương và điều?,"10 chương, 46 điều"
-10.txt_chunk3,Thời gian đào tạo chuẩn đối với người có bằng thạc sĩ là bao lâu?,03 năm
-10.txt_chunk3,Tổng số tín chỉ trong chương trình đào tạo gồm tối thiểu bao nhiêu?,90 (đối với nghiên cứu sinh đã có bằng thạc sĩ)
-10.txt_chunk3,Số tín chỉ tối đa trong học phần trong chương trình đào tạo tiến sĩ?,16
-10.txt_chunk4,Thời gian tối đa để nghiên cứu sinh trình lại hồ sơ đề nghị tổ chức seminar đánh giá tổng thể luận án sau khi luận án không đạt quy trình phản biện độc lập lần thứ nhất là bao lâu?,06 tháng
-10.txt_chunk4,Số thành viên thuộc đơn vị đào tạo không quá bao nhiêu trong Hội đồng đánh giá luận án tiến sĩ?,03 người
-10.txt_chunk5,Quy chế đào tạo Tiến sĩ của ĐHQGHN có hiệu lực kể từ ngày ký nào?,Ngày ký không được nêu rõ trong tài liệu
-10.txt_chunk5,Quy chế đào tạo Tiến sĩ của ĐHQGHN áp dụng cho các khóa tuyển sinh từ năm nào trở đi?,Năm
-10.txt_chunk5,Số lượng nghiên cứu sinh được hướng dẫn độc lập bởi giáo sư là bao nhiêu?,07 nghiên cứu sinh
-10.txt_chunk6,Đại học ĐHQGHN có vai trò như máy cái trong đào tạo nghiên cứu sinh ở đâu?,Cả nước
-10.txt_chunk6,Quy chế mới của ĐHQGHN có đặc điểm gì?,Cởi mở và thông thoáng hơn
-10.txt_chunk6,Số lượng công bố quốc tế có liên quan đến đào tạo nghiên cứu sinh tại ĐHQGHN là bao nhiêu?,Hơn 90%
-53.txt_chunk1,Trường Đại học Khoa học Tự nhiên có bao nhiêu đối tác?,Trên 350 đối tác
-53.txt_chunk1,Nhà trường có bao nhiêu đối tác là doanh nghiệp và tập đoàn trong nước?,Nhiều
-53.txt_chunk1,Số lượng sinh viên được hỗ trợ thực tập thực tế tại doanh nghiệp mỗi năm là bao nhiêu?,Hàng ngàn sinh viên
-53.txt_chunk2,Trường Đại học Khoa học Tự nhiên (ĐHKTN) được thành lập dựa trên truyền thống của Trường ĐHTH Hà Nội - Trường đại học đầu tiên và lớn nhất của đất nước.,Hơn 55 năm
-48.txt_chunk1,Đại học Vietnam Japan University (VJU) có trụ sở chính ở đâu?,"Luu Huu Phuoc Road, My Dinh 1 Residential Area, Cau Dien Ward, Nam Tu Liem District, Hanoi, Vietnam"
-48.txt_chunk1,Số điện thoại HOTLINE (Admission) của VJU là gì?,(+84) 966 954 736 (+84) 969 638 426
-48.txt_chunk2,Đại học Việt Nhật (VJU) được thành lập tại đâu?,Việt Nhật
-48.txt_chunk2,VJU có hợp tác với các đối tác nào?,"Các doanh nghiệp, tổ chức, chính phủ"
-48.txt_chunk2,VJU cung cấp các chương trình đào tạo bao gồm?,"Chương trình đào tạo, chương trình ngắn hạn, chương trình giáo dục ngôn ngữ, chương trình mùa hè"
-16.txt_chunk1,ĐHQGHN đã có bao nhiêu năm truyền thống?,117
-16.txt_chunk1,"Năm nào, tròn 30 năm Ngày Chính phủ ban hành Nghị định về ĐHQGHN?",2023
-16.txt_chunk1,ĐHQGHN đã được xếp hạng thế giới ở vị trí nào trong kỳ xếp hạng QS World University Rankings: Sustainability 2025?,325
-16.txt_chunk2,Kỳ xếp hạng QS World University Rankings: Sustainability 2024 được công bố vào thời điểm nào?,Ngày 22/01/2025
-16.txt_chunk2,Tổ chức xếp hạng Times Higher Education công bố kết quả xếp hạng theo lĩnh vực – World University Ranking by Subjects 2025 vào thời điểm nào?,Ngày 23/01/2025
-16.txt_chunk3,"Năm 2025, ĐHQGHN tuyển sinh bao nhiêu chỉ tiêu đại học chính quy?",Hơn 20.000
-16.txt_chunk3,Cuộc thi “Khởi nghiệp Sáng tạo Công nghệ - R&D to Startup” diễn ra trong năm nào?,Năm 2024
-16.txt_chunk3,ĐHQGHN có bao nhiêu lĩnh vực được xếp hạng trong nhóm từ 400 đến 500 thế giới theo QS by subject 2025?,"Không rõ ràng trong tài liệu, nhưng có thể"
-33.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập vào khoảng thời gian nào?,"Không rõ ràng trong tài liệu, nhưng Đại học Quốc gia Hà Nội được thành lập vào năm"
-33.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,"Không rõ ràng trong tài liệu, nhưng Đại học Quốc gia Hà Nội có nhiều trường đại học thành viên"
-33.txt_chunk1,Địa chỉ của Đại học Quốc gia Hà Nội là ở đâu?,Không rõ ràng trong
-33.txt_chunk2,Đại học Quốc gia Hà Nội có trụ sở chính tại khu đô thị nào?,"Khu đô thị Hoà Lạc, Thạch Thất, Hà Nội"
-33.txt_chunk2,Đại học Quốc gia Hà Nội được thành lập vào thời điểm nào?,Không có thông tin về thời điểm thành lập
-33.txt_chunk2,Đại học Quốc gia Hà Nội có giấy phép số gì từ Sở Thông tin và Truyền thông Hà Nội?,993/GP-TTĐT
-11.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,Có 20 trường đại học thành viên
-11.txt_chunk1,Trường Đại học Khoa học Tự nhiên có bao nhiêu chương trình đào tạo bậc đại học?,Có 20 chương trình đào tạo bậc đại học
-11.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị đào tạo bậc đại học?,Có 36 đơn vị đào tạo bậc đại học
-11.txt_chunk2,Trường Đại học Kinh tế có bao nhiêu chương trình đào tạo đại học?,07
-11.txt_chunk2,Khoa Quốc tế có bao nhiêu chương trình đào tạo đại học?,03
-11.txt_chunk2,Trường Đại học Ngoại ngữ có bao nhiêu chương trình đào tạo đại học?,05
-11.txt_chunk2,Tổng số chương trình đào tạo đại học của Trường Đại học Công nghệ là bao nhiêu?,04
-3.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,1993
-3.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu giảng viên?,"2,220 (năm 2022)"
-3.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu sinh viên đại học?,"45,224 (năm chưa rõ)"
-3.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở đào tạo?,Có trụ sở chính và cơ sở Hòa Lạc
-3.txt_chunk2,Đại học Quốc gia Hà Nội được thành lập vào thời điểm nào?,Năm 1993
-3.txt_chunk2,Trường Đại học Tổng hợp Hà Nội được thành lập theo Quyết định số nào vào năm 1956?,Quyết định số 2183/TC
-3.txt_chunk2,Địa điểm cũ của Viện Đại học Đông Dương được sử dụng cho Trường Đại học Tổng hợp Hà Nội từ năm nào?,1956
-3.txt_chunk2,Thành phố Hà Nội được đặt tên theo ai?,"(Không rõ, vì"
-3.txt_chunk3,Đại học Quốc gia Hà Nội được thành lập trên cơ sở Khoa nào?,Khoa Kinh tế
-3.txt_chunk3,Trường Đại học Giáo dục được thành lập trên cơ sở Khoa nào?,Khoa Sư phạm
-3.txt_chunk3,Trường Đại học Việt - Nhật được thành lập dựa trên ý tưởng của lãnh đạo cấp cao hai nước nào?,Việt Nam và Nhật Bản
-3.txt_chunk3,Trường Đại học Y Dược được thành lập trên cơ sở Khoa nào?,Khoa Y Dược
-3.txt_chunk4,Đại học Quốc gia Hà Nội có bao nhiêu giảng viên và nhân viên?,Khoảng 4.393
-3.txt_chunk4,Đại học Quốc gia Hà Nội có bao nhiêu giáo sư?,62
-3.txt_chunk4,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đại học?,140
-3.txt_chunk4,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở tại Hà Nội?,7
-3.txt_chunk5,Đại học Quốc gia Hà Nội được chuyển trụ sở làm việc từ địa chỉ nào vào ngày 19 tháng 5 năm 2022?,"144 Xuân Thủy, quận Cầu Giấy, Hà Nội"
-3.txt_chunk5,Diện tích đất để quy hoạch xây dựng Đại học Quốc gia Hà Nội là bao nhiêu?,1000 ha
-3.txt_chunk5,Số vốn dành cho dự án xây dựng Đại học Quốc gia Hà Nội tại Hòa Lạc vào khoảng bao nhiêu?,2.5 tỉ USD
-3.txt_chunk6,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,1993
-3.txt_chunk6,Đại học Quốc gia Hà Nội có bao nhiêu cựu sinh viên ưu tú?,"Có các cựu sinh viên ưu tú như Võ Nguyên Giáp, Nguyễn Phú Trọng, Lê Đức Thọ, Nguyễn Thái Học, Lê Văn Thiêm, Trần Đức Thảo, Ngô Bảo Châu, Đàm Thanh Sơn, Hoàng Tụy, Trần Quang Đức, Đào Duy Anh, Joe Ruelle, Đinh Xuân"
-3.txt_chunk7,Đại học Quốc gia Hà Nội được thành lập vào thời gian nào?,1993
-3.txt_chunk7,Đại học Quốc gia Hà Nội chuyển trụ sở làm việc tới khu vực nào?,Hòa Lạc
-3.txt_chunk7,Bộ Xây dựng nhận lại dự án Đại học Quốc gia Hà Nội vào năm nào?,"Không rõ, tài liệu chỉ đề cập đến việc Bộ Xây dựng nhận lại dự án"
-3.txt_chunk8,Đại học Quốc gia Hà Nội được thành lập vào thời gian nào?,1906
-3.txt_chunk8,Đại học Quốc gia Hà Nội có tên gọi khác là gì?,Đại học nghiên cứu
-3.txt_chunk8,Đại học Quốc gia Hà Nội nằm tại thành phố nào?,Hà Nội
-3.txt_chunk8,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học và cao đẳng?,Không rõ
-42.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập năm nào?,Không rõ từ tài liệu
-42.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,Không rõ từ tài liệu
-42.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu khoa học?,Không rõ từ tài liệu
-42.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trung tâm đào tạo trực thuộc?,Không rõ từ tài liệu
-42.txt_chunk2,Đại học Quốc gia Hà Nội được thành lập theo Quyết định số nào vào năm 1906?,Quyết định số 1514a
-42.txt_chunk2,"Địa điểm trụ sở của Đại học Đông Dương (hình ảnh biểu tượng của ĐHQGHN) là số 19 phố Lê Thánh Tông, quận Hoàn Kiếm, thành phố Hà Nội.",Có
-42.txt_chunk2,Trường Đại học Quốc gia Việt Nam được thành lập vào ngày 15 tháng 11 năm 1945.,Có
-42.txt_chunk3,"Đại học Quốc gia Hà Nội được thành lập trên cơ sở tổ chức, sắp xếp lại mấy trường đại học lớn ở Hà Nội?",03 trường đại học lớn
-42.txt_chunk3,Đại học Quốc gia Hà Nội được thành lập theo Nghị định số mấy ngày tháng nào của Chính phủ?,Nghị định số 97/CP ngày 10 tháng 12 năm 1993
-42.txt_chunk4,ĐHQGHN trở thành trường đại học trực thuộc Bộ Giáo dục và Đào tạo vào thời điểm nào?,"Vào thời điểm có các ngành và lĩnh vực: toán và khoa học tự nhiên, công nghệ thông tin và điện tử viễn thông (Trường Đại học Khoa học Tự nhiên); khoa học xã hội và nhân văn, kinh tế, luật (Trường Đại học Khoa học Xã hội và Nhân văn) và ngoại ngữ (Trường Đại học Ngoại ngữ)"
-42.txt_chunk5,ĐHQGHN được thành lập theo Quyết định số 92/2004/QĐ-TTg của Thủ tướng Chính phủ năm nào?,2004
-42.txt_chunk5,Trung tâm Giáo dục Quốc phòng được thành lập từ ngày 02 tháng 3 năm 2004 theo Quyết định số 97/TCCB của Giám đốc ĐHQGHN hay không?,Có
-42.txt_chunk6,ĐHQG Hà Nội được thành lập theo Quyết định số nào ngày 10 tháng 6 năm 2010?,Quyết định số 1736/QĐ-TCCB
-42.txt_chunk7,ĐHQGHN được thành lập vào thời điểm nào?,"Không rõ, tài liệu không đề cập đến thông tin này"
-42.txt_chunk7,"Ngày 05 tháng 9 năm 2013, Trung tâm Kiểm định chất lượng giáo dục được thành lập theo Quyết định số 3568/QĐ-BGDĐT của Bộ trưởng Bộ Giáo dục và Đào tạo.",Có
-42.txt_chunk8,ĐHQGHN có bao nhiêu đơn vị trực thuộc sau khi kiện toàn tổ chức lại?,29
-42.txt_chunk8,Năm nào Thủ tướng Chính phủ ký Quyết định số 26/2014/QĐ-TTg ban hành Quy chế Tổ chức và hoạt động của ĐHQG và các cơ sở giáo dục đại học thành viên?,2014
-42.txt_chunk8,Tên của Viện Tin học Pháp ngữ trước khi đổi tên là gì?,Viện Tin học Pháp ngữ
-42.txt_chunk9,"Năm 2015, ĐHQGHN thực hiện giai đoạn 2 của đề án điều chỉnh, sắp xếp lại và phát triển cơ cấu tổ chức của các đơn vị thành viên, đơn vị trực thuộc là vào thời điểm nào?",Nhiệm kỳ 2015-2020
-42.txt_chunk10,"ĐHQGHN đã thực hiện việc điều chỉnh tên gọi và chức năng, nhiệm vụ của Khoa Sau đại học thành gì vào năm 2017?",Khoa Sau đại học thành Khoa các khoa học liên ngành
-42.txt_chunk10,Văn phòng Nhiệm vụ Quốc chí trực thuộc ĐHQGHN được thành lập vào ngày nào năm 2018?,22 tháng 01 năm 2018
-42.txt_chunk11,Khi nào Thủ tướng Chính phủ ký Quyết định số 1666/QĐ-TTg về việc thành lập Trường Đại học Y Dược?,Ngày 27 tháng 10 năm 2020
-42.txt_chunk11,Tên gọi tắt của Ban Quản lý Dự án được thành lập vào ngày 28 tháng 10 năm 2021 là gì?,World Banks
-42.txt_chunk11,Ngày Giám đốc ĐHQGHN ký Quyết định số 3868/QĐ-ĐHQGHN thành lập Trường Quốc tế?,01
-42.txt_chunk12,ĐHQGHN được thành lập vào năm nào?,2020
-42.txt_chunk12,"Ngày 08 tháng 6 năm 2022, ĐHQGHN đã ký quyết định thành lập Câu lạc bộ nào?",Câu lạc bộ Cựu sinh viên Doanh nhân ĐHQGHN
-42.txt_chunk12,ĐHQGHN đã thành lập trường đại học thành viên thứ mấy?,Thứ mười
-42.txt_chunk13,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập từ bao giờ?,1906
-42.txt_chunk13,ĐHQGHN đã được vinh dự đón nhận Huân chương Lao động hạng Nhất vào năm nào?,"Không rõ, nhưng đã đạt được điều này"
-42.txt_chunk13,Cơ cấu ngành nghề đào tạo của ĐHQGHN có bao nhiêu lĩnh vực?,"4 lĩnh vực: khoa học tự nhiên, khoa học xã hội và nhân văn, kinh tế, ngoại ngữ"
-42.txt_chunk14,ĐHQGHN được thành lập trong thời gian bao lâu?,30 năm
-42.txt_chunk14,"Năm 2022, ĐHQGHN có bao nhiêu lĩnh vực được xếp hạng QS top 600?",6
-42.txt_chunk14,"Năm 2023, ĐHQGHN có thêm bao nhiêu nhóm lĩnh vực mới được xếp hạng theo bảng xếp hạng QS?",2
-42.txt_chunk14,ĐHQGHN có bao nhiêu đơn vị sự nghiệp công lập thành viên trực thuộc?,34
-42.txt_chunk15,ĐHQGHN có bao nhiêu người làm việc tại thời điểm hiện tại?,5281 người
-42.txt_chunk15,"Tỷ lệ giảng viên có trình độ tiến sĩ, tiến sĩ khoa học trên số giảng viên cơ hữu, toàn thời gian của ĐHQGHN là bao nhiêu?","66,1%"
-42.txt_chunk15,ĐHQGHN đã được xếp hạng vị trí bao nhiêu thế giới trong QS World University Rankings: Sustainability 2025?,325
-42.txt_chunk16,Quốc tế phối cảnh khu Trung tâm điều hành ĐHQGHN tại Hòa Lạc sẽ được hoàn thành vào năm nào?,2025
-42.txt_chunk16,Tòa nhà HT1 và HT2 cơ sở Hòa Lạc có diện tích tương đương với trường Đại học Khoa học Tự nhiên ở nội thành Hà Nội là bao nhiêu?,"Không rõ, nhưng đã đón sinh viên tới học tập vào tháng 9 năm 2022"
-6.txt_chunk1,Thông tin tuyển sinh đại học chính quy năm 2024 của ĐHQGHN được công bố vào thời điểm nào?,00:00:00 Ngày 17/07/2024 GMT+7
-6.txt_chunk1,Điểm chuẩn (điểm trúng tuyển) đại học chính quy năm 2023 của ĐHQGHN được công bố vào thời điểm nào?,"Không rõ, vì tài liệu không cung cấp thông tin về thời gian công bố điểm chuẩn năm"
-6.txt_chunk2,ĐHQGHN dự kiến tuyển sinh gần bao nhiêu chỉ tiêu vào các ngành/chương trình đào tạo?,18.000
-6.txt_chunk2,Trường ĐH Khoa học Tự nhiên có bao nhiêu chỉ tiêu?,1.850
-6.txt_chunk2,Trường ĐH Ngoại ngữ có bao nhiêu chỉ tiêu?,2.000
-6.txt_chunk2,Kỳ thi tốt nghiệp THPT năm 2024 sẽ có những điểm mới nào?,Nhiều phương thức tuyển sinh
-6.txt_chunk3,Đại học Quốc gia Hà Nội có bao nhiêu thí sinh dự thi Đánh giá năng lực đợt 1 năm 2024?,Hơn 11.000
-6.txt_chunk3,Kỳ thi Đánh giá năng lực của ĐHQGHN năm 2025 có nhiều đổi mới trong cấu trúc đề thi theo chương trình giáo dục phổ thông ban hành năm nào?,2018
-6.txt_chunk4,Đại học Quốc gia Hà Nội (ĐHQGHN) được xếp hạng thế giới vào năm nào?,"2022, 2023, 2024 và 2025"
-6.txt_chunk4,Tổ chức xếp hạng QS (Quacquarelli Symonds) công bố kết quả Bảng xếp hạng đại học thế giới QS World University Rankings 2025 vào ngày nào?,5/6/2024
-6.txt_chunk5,Đại học Quốc gia Hà Nội có bao nhiêu chỉ tiêu tuyển sinh đại học chính quy năm 2025?,Hơn 20.000
-6.txt_chunk5,Trường Đại học Kinh tế - Đại học Quốc gia Hà Nội có nhiều lĩnh vực được xếp hạng trong nhóm từ 400 đến 500 thế giới trong năm nào?,Năm 2025
-6.txt_chunk5,Chương trình học bổng Phát triển nhân tài số năm 2025 được triển khai tại trường nào?,Trường Đại học Quốc
-67.txt_chunk1,Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội có địa chỉ ở đâu?,"Nhà G7, Đại học Quốc gia Hà Nội, số 144 Xuân Thủy, Cầu Giấy, Hà Nội"
-67.txt_chunk1,Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội là bao nhiêu?,0243 754 7716 | 0981290448
-67.txt_chunk2,Đại học Việt Quốc được thành lập vào thời điểm nào?,Thạc sĩ Công nghiệp văn hóa và sáng tạo
-67.txt_chunk2,Chương trình đào tạo nào liên quan đến biến đổi khí hậu và phát triển bền vững?,Tiến sĩ Biến đổi khí hậu và Phát triển bền vững
-67.txt_chunk2,Địa điểm nào liên quan đến sinh hoạt khoa học của chương trình đào tạo?,Việt Nam
-5.txt_chunk1,Đại học Quốc gia Hà Nội có trụ sở tại địa điểm nào?,"144 Xuân Thủy, Cầu Giấy, Hà Nội"
-5.txt_chunk1,"Đại học Quốc gia Hà Nội có nhiều trường trực thuộc, bao gồm trường nào?","Trường Đại học Khoa học Tự nhiên, Trường Đại học Khoa học Xã hội và Nhân văn, Trường Đại học Ngoại ngữ, Trường Đại học Công nghệ, Trường Đại học Giáo dục, Trường Đại học Luật, Trường Đại học Y Dược, Trường Đại học Việt"
-5.txt_chunk2,Bạn đang học lớp 12 ở tỉnh nào?,"Có nhiều tỉnh được liệt kê, chẳng hạn như Tiền Giang, Kiên Giang, Cần Thơ, Bến Tre, Vĩnh Long, Trà Vinh, Sóc Trăng, Bạc Liêu, Cà Mau, Điện Bi"
-17.txt_chunk1,Đại học Quốc gia Hà Nội (VNU) được thành lập theo Nghị định số 97/CP ngày bao giờ?,10 tháng 12 năm 1993
-17.txt_chunk1,Trường Đại học Quốc gia Hà Nội (VNU) được thành lập dựa trên cơ sở tổ chức và sắp xếp lại các trường đại học nào?,"Trường đại học Tổng học Hà Nội, Trường đại học Sư phạm Hà Nội I và Trường đại học Sư phạm Ngoại ngữ Hà Nội"
-17.txt_chunk2,Trường Đại học Đông Dương được thành lập theo quyết định số nào của Toàn quyền Đông Dương?,Quyết định số 1514a (ngày 16/5/1906)
-17.txt_chunk2,Trường Đại học Đông Dương được đặt tại số địa chỉ nào ở Hà Nội?,"Số 19 Lê Thánh Tông, quận Hoàn Kiếm, thành phố Hà Nội"
-17.txt_chunk2,Trường Đại học Đông Dương được chuyển tên thành Trường Đại học Quốc gia Việt Nam vào ngày nào?,15/11/
-17.txt_chunk3,Đại học Quốc gia Hà Nội (VNU) được thành lập vào năm nào?,"Không rõ, tài liệu không cung cấp thông tin này"
-17.txt_chunk3,"Địa chỉ của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là ở đâu?","Nhà G7, Đại học Quốc gia Hà Nội, số 144 Xuân Thủy, Cầu Giấy, Hà Nội"
-19.txt_chunk1,Trường Đại học Kinh tế - ĐHQGHN ban hành Thông tin tuyển sinh đại học năm 2025 vào thời điểm nào?,29/04/2025
-19.txt_chunk1,Trường Đại học Kinh tế - ĐHQGHN có trụ sở tại đâu?,"Không rõ ràng trong tài liệu, nhưng có thể là Hà Nội"
-19.txt_chunk1,Đại học Kinh tế - ĐHQGHN có bao nhiêu năm truyền thống?,50 năm
-19.txt_chunk2,Đối tượng dự tuyển được xác định tại thời điểm xét tuyển là bao nhiêu?,01 năm
-19.txt_chunk2,Đối tượng dự tuyển bao gồm những người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương.,Có
-19.txt_chunk2,Trường Đại học Kinh tế (ĐHKT) có quy định cụ thể về đối tượng dự tuyển cho mỗi phương thức tuyển sinh.,Có
-19.txt_chunk3,Đại học được quy định bởi Nhà trường có thể sử dụng điểm quy đổi từ chứng chỉ Tiếng Anh quốc tế kết hợp với kết quả học tập 6 học kỳ bậc THPT của 2 môn còn lại trong 4 tổ hợp xét tuyển là gì?,"Toán, Ngữ Văn; A01 gồm: Toán, Vật lí; D09 gồm: Toán, Lịch sử; D10 gồm: Toán, Địa lý"
-19.txt_chunk4,Điều kiện nhận hồ sơ phương thức xét tuyển hồ sơ là gì?,"Thí sinh là thành viên đội tuyển quốc gia, được Bộ Văn hóa, Thể thao và Du lịch, Cục thể dục thể thao hoặc các Liên đoàn thể thao quốc gia xác nhận đã hoàn thành nhiệm vụ tham gia thi đấu trong các giải quốc tế chính thức"
-19.txt_chunk4,Các giải thể thao mà thí sinh có thể đạt huy chương để xét tuyển dự bị đại học là gì?,"Các giải thể thao học sinh phổ thông cấp tỉnh,"
-19.txt_chunk5,Thí sinh đã tốt nghiệp THPT hoặc tương đương ở nước ngoài có thể sử dụng kết quả học tập 3 môn học cấp THPT theo tổ hợp môn xét tuyển tương ứng của ngành để học.,Có
-19.txt_chunk5,"Để được cộng điểm thưởng khi xét tuyển vào ĐHQGHN, thí sinh phải đáp ứng một trong các tiêu chí sau.","Có thể là đạt giải nhất, nhì, ba trong các Kỳ thi Olympic bậc THPT của ĐHQGHN hoặc đạt giải nhất,"
-19.txt_chunk6,Tại sao học sinh tham gia Chương trình VNU 12+ được ưu tiên xét tuyển vào bậc đại học?,Bởi vì họ đã tích lũy trước tối thiểu 3 học phần trong chương trình đào tạo đại học
-19.txt_chunk6,Điều kiện nào để được xét tuyển thẳng vào Chương trình Cử nhân Quản trị kinh doanh tại ĐH Troy – Hoa Kỳ?,Thí sinh phải thỏa mãn 02 điều kiện: điểm trung bình chung 4/6 học kỳ ở bậc THPT đạt tối thiểu
-19.txt_chunk7,Trường Đại học Kinh tế - ĐHQGHN áp dụng cho Chương trình BSBA-TROY có yêu cầu điểm trung bình chung của mỗi năm học ở bậc THPT đạt tối thiểu bao nhiêu theo thang điểm 10?,"6,5"
-19.txt_chunk8,Thí sinh cần đạt điểm trung bình chung của mỗi năm học ở bậc THPT là bao nhiêu theo thang điểm 10 để được xét tuyển vào chương trình?,"6,5"
-19.txt_chunk8,Thí sinh cần có chứng chỉ tiếng Anh quốc tế đạt tối thiểu tương đương bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (VSTEP) là gì?,IELTS 5.5 hoặc TOEFL iBT 72
-19.txt_chunk9,Thời gian yêu cầu nộp được chứng chỉ tiếng Anh là bao lâu kể từ khi có thông báo trúng tuyển có điều kiện?,Không quá 01 năm
-19.txt_chunk9,Thí sinh có thể đăng ký học các môn do Trường Đại học Kinh tế - ĐHQGHN đảm nhiệm nếu có chứng chỉ tiếng Anh đạt tối thiểu bậc mấy theo Khung năng lực ngoại ngữ 6 bậc dùng cho người Việt Nam (VSTEP)?,4
-19.txt_chunk10,Trường Đại học Kinh tế sẽ công bố ngưỡng đầu vào theo kế hoạch chung của Bộ Giáo dục và Đào tạo (GD&ĐT) và Đại học Quốc gia Hà Nội (ĐHQGHN) vào thời điểm nào?,Năm 2025
-19.txt_chunk10,Trường ĐHKT tuyển sinh 6 ngành đào tạo với 9 chương trình đào tạo theo các phương thức tuyển sinh trong nước vào năm nào?,Năm 2025
-19.txt_chunk11,Trường Đại học Kinh tế xét tuyển các nguyện vọng thí sinh đã đăng ký theo nguyên tắc từ cao xuống thấp đến hết chỉ tiêu phân bổ từng ngành.,Có
-19.txt_chunk11,Trường Đại học Kinh tế xét tuyển ngành Quản trị kinh doanh dành cho các tài năng thể thao theo phương thức xét tuyển nào?,Phương thức xét tuyển 1 và 2
-19.txt_chunk11,Tổng số chỉ tiêu xét tuyển thẳng vào Trường Đại học Kinh tế là bao nhiêu?,35
-19.txt_chunk12,Thời gian đăng ký xét tuyển đại học của Trường Đại học Kinh tế là bao lâu?,Từ ngày đăng ký xét tuyển của tất cả các phương thức (trừ phương thức kết quả thi THPT năm 2025) trên Hệ thống xét tuyển đại học của Trường Đại học Kinh tế
-19.txt_chunk12,Hình thức đăng ký xét tuyển đại học của Trường Đại học Kinh tế là gì?,Đăng ký xét tuyển trực tuyến trên Hệ thống hỗ trợ tuyển sinh của Bộ GD&ĐT và trên Hệ thống xét tuyển đại học
-19.txt_chunk13,"Thí sinh đạt nhiều thành tích, có nhiều điểm cộng nhưng chỉ được tính 01 lần với mức điểm/thành tích cao nhất là bao nhiêu?",01 lần
-19.txt_chunk13,Điểm thưởng được cộng trước khi cộng điểm ưu tiên là đúng hay sai?,Đúng
-19.txt_chunk13,Mức điểm ưu tiên áp dụng cho khu vực 1 (KV1) là bao nhiêu?,"0,75 điểm"
-19.txt_chunk14,Trường Đại học Kinh tế - ĐHQGHN sử dụng ngân hàng nào để nhận tiền lệ phí xét tuyển?,BIDV
-19.txt_chunk14,"Lệ phí xét tuyển cho phương thức xét tuyển ngành Quản trị kinh doanh do Đại học Troy, Hoa Kỳ cấp bằng là bao nhiêu?",2.552.500 đồng/sinh viên
-19.txt_chunk14,"Lệ phí xét tuyển cho phương thức xét tuyển ngành Quản trị kinh doanh do Đại học St.Francis, Hoa Kỳ cấp bằng là bao nhiêu?",
-19.txt_chunk15,Đại học TROY có học phí là bao nhiêu?,362.455.000 đồng/sinh viên
-19.txt_chunk15,Học phí cho một khóa học chuẩn đối với sinh viên trúng tuyển chính thức sau khi trừ học bổng là bao nhiêu?,350.968.750 đồng
-19.txt_chunk15,Phí xét tốt nghiệp tại Đại học TROY là bao nhiêu?,1.531.500 đồng/sinh viên
-19.txt_chunk16,Thông báo tuyển sinh đại học năm 2024 được công bố vào ngày nào?,19 tháng 03 năm 2024
-19.txt_chunk16,Trường Đại học Kinh tế - ĐHQGHN xét tuyển trực tiếp 90 chỉ tiêu cho chương trình BSBA TROY từ ngày nào?,16/03/2023
-19.txt_chunk16,Địa chỉ của Trường Đại học Kinh tế - Đại học Quốc gia Hà Nội là gì?,"144 đường Xuân Thủy, quận Cầu Giấy, Hà"
-20.txt_chunk1,Trường Quốc tế thuộc ĐHQGHN nào?,Trường Quốc tế - ĐHQGHN
-20.txt_chunk1,Ngành đào tạo dự bị và Bằng kép Tiếng Anh của Trường Quốc tế là gì?,Đại học do ĐHQGHN cấp bằng
-20.txt_chunk1,Ngành đào tạo dự bị và Bằng kép Đại học liên kết quốc tế của Trường Quốc tế là gì?,Đại học nước ngoài cấp bằng
-20.txt_chunk2,Trường Quốc tế nằm ở đâu?,Trường Quốc tế nằm tại Đại học Quốc gia Hà Nội
-20.txt_chunk2,Có bao nhiêu cơ sở của Trường Quốc tế?,Có 5 cơ sở của Trường Quốc tế
-20.txt_chunk2,Ngôn ngữ chính thức được sử dụng trong đào tạo tại Trường Quốc tế là gì?,Tiếng Anh
-20.txt_chunk2,Có bao nhiêu chương trình đào tạo đại học chính quy do ĐHQGHN cấp bằng tại Trường Quốc tế?,07 chương trình đào tạo
-7.txt_chunk1,Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội có tên tiếng Anh là gì?,University of Engineering and Technology (UET)
-7.txt_chunk1,Địa chỉ của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội là gì?,"Nhà E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
-7.txt_chunk1,Phương thức xét tuyển của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội bao gồm các phương thức nào?,Phương thức 1: Xét tuyển theo KQ
-7.txt_chunk2,Đại học Công nghệ - Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo?,20
-7.txt_chunk2,"Năm 2022, điểm chuẩn của chương trình đào tạo Công nghệ thông tin là bao nhiêu?",29.15
-7.txt_chunk2,Chương trình đào tạo nào có điểm chuẩn cao nhất vào năm 2024?,Công nghệ thông tin định hướng thị trường Nhật Bản (27.8)
-7.txt_chunk3,Đại học Công nghệ - Đại học Quốc gia Hà Nội có tên gọi ban đầu là gì?,Đại học Công nghệ - Đại học Quốc gia Hà Nội có tên gọi ban đầu là Đại học Bách khoa Hà Nội
-7.txt_chunk3,"Năm 2020, điểm trúng tuyển của chương trình đào tạo chất lượng cao Công nghệ kỹ thuật cơ điện tử (Chất lượng cao) là bao nhiêu?",24.65
-7.txt_chunk4,Chính sách bảo mật của công ty được cập nhật vào thời gian nào?,2023
-7.txt_chunk4,Ai là người chịu trách nhiệm về chính sách bảo mật của công ty?,Ban điều hành
-7.txt_chunk4,Công ty có quy định gì về việc chia sẻ thông tin bảo mật với bên ngoài?,
-37.txt_chunk1,Đại học Quốc gia Hà Nội tuyển sinh bao nhiêu sinh viên năm 2025?,gần 20.300
-37.txt_chunk1,Trường Đại học Công nghệ có chỉ tiêu tuyển sinh bao nhiêu sinh viên năm 2025?,3.900
-37.txt_chunk1,Trường Đại học Việt Nhật có chỉ tiêu tuyển sinh bao nhiêu sinh viên năm 2025?,450
-37.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên tuyển sinh năm 2025?,12  Q
-24.txt_chunk1,"Bài hát ""Ca ngợi Hồ Chủ tịch"" được viết bởi nhạc sĩ Văn Cao, nhưng nó được nhắc đến trong chương trình ""Người là niềm tin tất thắng"" trên kênh nào?",Tuổi Trẻ Sao
-24.txt_chunk1,Ông Trump đã mời Giáo hoàng Leo XIV đến thăm quê của ông ở quốc gia nào?,Mỹ
-24.txt_chunk1,"Khu đất ""vàng"" được thu hồi tại TP Nha Trang thuộc tỉnh nào?",Khánh Hòa
-24.txt_chunk2,Ông Biden mắc ung thư loại nào?,Ung thư tuyến tiền liệt di căn xương
-24.txt_chunk2,Địa điểm khai mạc Hội chợ thương mại quốc tế Tịnh Biên - An Giang năm 2025?,"Tịnh Biên, An Giang"
-24.txt_chunk2,Cựu tổng thống Biden được chẩn đoán mắc ung thư vào thời điểm nào?,Thông điệp đầu tiên sau khi được chẩn đoán mắc ung thư
-24.txt_chunk3,"Nơi nào có ""thư viện thông minh"" rộng hơn 200m²?","Trường THCS Trần Huy Liệu, quận Phú Nhuận, TP.HCM"
-24.txt_chunk3,Thủ tướng Israel tuyên bố kiểm soát toàn bộ khu vực nào sau khi mở chiến dịch quân sự?,Dải Gaza
-24.txt_chunk3,"Khu vực nào được các ngư dân lão luyện làng biển Nhơn Lý sử dụng để bắt cá cơm, ruốc biển, mực...?",Mặt biển Nhơn Lý
-24.txt_chunk4,Kỷ niệm 7-5 là ngày gì?,Ngày họp báo của gia đình Kim Sae Ron và kênh YouTube Garo Sero Institute
-24.txt_chunk4,Vị trí mới của Trường đại học Y Hà Nội sẽ được đầu tư bao nhiêu?,Hơn 3.000 tỉ
-24.txt_chunk4,Tỉnh nào đang đầu tư cải tạo nâng công suất nhà máy nước tại khu vực thành phố?,Sóc Trăng
-24.txt_chunk5,Thùy Tiên là ai?,Hoa hậu
-24.txt_chunk5,Nicole Kidman nhận giải gì ở Cannes?,Women in Motion
-24.txt_chunk5,Thành phố nào được đề xuất ngừng in phù hiệu và giấy phép?,TP.HCM
-24.txt_chunk5,Vệ tinh đầu tiên của Trung Quốc được phóng vào đâu?,Không gian
-24.txt_chunk5,Trường đại học nào lần đầu xét tuyển khối A và bỏ xét điểm đánh giá năng lực?,Trường đại học Y Hà Nội
-24.txt_chunk6,Chủ tịch Hồ Chí Minh có liên quan đến khu lưu niệm nào?,Trường Sa
-24.txt_chunk6,Tại sao đoạn cao tốc Khánh Hòa - Buôn Ma Thuột có nguy cơ chậm tiến độ?,Do khan hiếm đá xây dựng
-24.txt_chunk6,Kỷ nguyên mới của thương hiệu nghỉ dưỡng hàng đầu Việt Nam được khởi động khi nào?,Khi Vinpearl lên sàn
-24.txt_chunk6,Thành phố TP.HCM có gói cháo bột mang ra thế giới nào?,Gói cháo bột
-24.txt_chunk7,Tuổi Trẻ Online giới thiệu phiên bản đặc biệt dành riêng cho các thành viên từ ngày nào?,1-1-2023
-24.txt_chunk7,Tuổi Trẻ Sao bao gồm các chuyên mục và trải nghiệm thú vị như thế nào?,"Tư vấn pháp luật, Hỏi chuyện sức khỏe; Xem nhật báo sắc nét trên mạng (E-paper), Tuổi Trẻ Live"
-24.txt_chunk7,Thành viên Tuổi Trẻ Sao có thể tham gia các hoạt động và tương tác như thế nào?,
-38.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,"Không rõ, vì tài liệu không cung cấp thông tin này"
-38.txt_chunk1,Trường Đại học Công nghệ tại ĐHQGHN đào tạo ngành nào?,Công nghệ thông tin và Công nghệ thông tin (CTĐT CLC)
-38.txt_chunk1,Có bao nhiêu chương trình đào tạo bậc đại học tại ĐHQGHN?,"Không rõ, vì tài liệu chỉ cung cấp danh mục các chương trình đào tạo bậc đại học nhưng không đưa ra số lượng"
-38.txt_chunk2,Đại học Khoa học Tự nhiên có bao nhiêu chương trình đào tạo?,Có 50 chương trình đào tạo
-38.txt_chunk2,Đại học Khoa học Xã hội và Nhân văn có bao nhiêu ngành học?,Có 22 ngành học
-38.txt_chunk2,"Trường Đại học Khoa học Tự nhiên có chương trình đào tạo ""Toán học"" hay ""Toán học (CTĐT tài năng)""?",Có cả hai chương trình đào tạo
-38.txt_chunk3,Đại học nào tại Hà Nội có Trường Đại học Việt Nhật?,Đại học Quốc gia Hà Nội
-38.txt_chunk3,Đại học nào tại Hà Nội có Trường Đại học Kinh tế?,Đại học Quốc gia Hà Nội
-38.txt_chunk3,Đại học nào tại Hà Nội có Trường Đại học Y Dược?,Đại học Quốc gia Hà Nội
-38.txt_chunk3,Đại học nào tại Hà Nội có Trường Quốc tế?,Đại học Quốc gia Hà Nội
-38.txt_chunk4,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,Năm 1994
-38.txt_chunk4,Chương trình đào tạo đại học của Trường Đại học Kinh tế được công bố vào ngày nào?,20/06/2011
-38.txt_chunk4,Các chương trình đào tạo đại học của ĐHQGHN được công bố vào ngày nào?,08/11/2012
-38.txt_chunk4,Danh mục ngành đào tạo Cử nhân Tài năng của ĐHQGHN được công bố vào ngày nào?,
-41.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập vào thời điểm nào?,không rõ
-41.txt_chunk1,"Đại học Quốc gia Hà Nội có trụ sở tại Hà Nội, Việt Nam.",đúng
-41.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên?,không rõ
-41.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường trực thuộc?,không rõ
-41.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu khoa học?,không rõ
-41.txt_chunk2,Đại học Quốc gia Hà Nội được thành lập theo nghị định nào?,Nghị định số 97/CP ngày 10 tháng 12 năm 1993
-41.txt_chunk2,"Đại học Quốc gia Hà Nội được thành lập trên cơ sở tổ chức, sắp xếp lại 3 trường đại học lớn ở Hà Nội nào?","Trường Đại học Sư phạm Hà Nội, Đại học Hà Nội và Đại học Khoa học Xã hội và Nhân văn Hà Nội"
-41.txt_chunk3,Trường đại học Đông Dương được thành lập vào năm nào?,1906
-41.txt_chunk3,Trường đại học Quốc gia Việt Nam được thành lập trên cơ sở kế thừa Trường đại học Đông Dương vào ngày nào?,15/11/1945
-41.txt_chunk3,Trường đại học Tổng hợp Hà Nội được thành lập vào năm nào?,1956
-41.txt_chunk4,Đại học quốc gia được thành lập theo Nghị định nào của Chính phủ?,Nghị định về việc thành lập 2 Đại học Quốc gia
-41.txt_chunk4,Ngày ban hành Nghị định về việc thành lập 2 Đại học Quốc gia là ngày nào?,Không rõ ngày ban hành Nghị định
-41.txt_chunk5,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị thành viên và trực thuộc?,Có 09 Ban chức năng và các đơn vị trực thuộc khác
-41.txt_chunk5,"Đại học Quốc gia Hà Nội có sứ mệnh, tầm nhìn như thế nào?","Hướng đến trình độ khu vực và quốc tế mang lại lợi ích cho tất cả cán bộ, sinh viên, đơn vị, xã hội"
-41.txt_chunk5,Đại học Quốc gia Hà Nội có trách nhiệm cao trước xã hội như thế nào?,Đặt nhu
-41.txt_chunk6,Đại học Quốc gia Hà Nội được thành lập theo nghị định nào vào ngày 10/12/1993?,Nghị định 97/CP
-41.txt_chunk6,Đại học Quốc gia Hà Nội được tổ chức lại theo nghị định nào vào ngày 1/2/2001?,Nghị định số 07/2001/NĐ-CP
-41.txt_chunk7,"Các tuyến xe buýt nào có thể đưa người đến cơ sở của ĐHQGHN tại 334, 336 đường Nguyễn Trãi và 182 đường Lương Thế Vinh, quận Thanh Xuân, Hà Nội?","Tuyến xe buýt số 1, 2, 5, 19, 21, 22, 27, 29,"
-4.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập theo Nghị định số 97/CP ngày nào?,10 tháng 12 năm 1993
-4.txt_chunk1,"Địa điểm trụ sở của Đại học Đông Dương là số 19 phố Lê Thánh Tông, quận Hoàn Kiếm, thành phố nào?",Hà Nội
-4.txt_chunk1,Trường Đại học Quốc gia Việt Nam được thành lập năm nào?,1945
-4.txt_chunk2,"Năm 2003, Thủ tướng Chính phủ Phan Văn Khải đã chính thức động thổ xây dựng ĐHQGHN tại đâu?",Hoà Lạc
-4.txt_chunk2,"Năm 2023, học sinh Trường THPT chuyên Khoa học Tự nhiên giành được bao nhiêu huy chương Olympic quốc tế?",291
-4.txt_chunk2,ĐHQGHN có bao nhiêu ngành đào tạo trình độ đại học?,190
-4.txt_chunk3,Đại học Quốc gia Hà Nội chuyển trụ sở tới Hòa Lạc vào năm nào?,2022
-4.txt_chunk3,"Đại học Quốc gia Hà Nội đã có bao nhiêu đơn vị thành viên, trực thuộc chuyển tới Khu đô thị ĐHQGHN tại Hòa Lạc?",Gần 30
-4.txt_chunk3,Tòa Nhà HT1 và HT2 cơ sở Hòa Lạc sẽ được hoàn thành vào năm nào?,2025
-4.txt_chunk4,Báo Đại biểu Nhân dân có giấy phép số nào?,349/GP - BTTTT
-4.txt_chunk4,Báo Đại biểu Nhân dân được cấp phép vào ngày nào?,22/9/2023
-4.txt_chunk4,Báo Đại biểu Nhân dân có trụ sở tại địa chỉ nào?,"35 Ngô Quyền, Hoàn Kiếm, Hà Nội"
-4.txt_chunk4,Báo Đại biểu Nhân dân có website nào?,dbnd.vn
-61.txt_chunk1,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có địa chỉ ở đâu?","Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có địa chỉ ở Hà Nội"
-61.txt_chunk1,"Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là gì?","Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là 098.129."
-61.txt_chunk2,Trường Khoa học liên ngành và Nghệ thuật đang tiếp nhận hồ sơ tuyển sinh sau đại học đợt 1 năm 2025 từ tháng nào?,Tháng 5
-61.txt_chunk2,Thông báo tuyển sinh trình độ Tiến sĩ năm 2024 được công bố vào tháng nào?,Tháng 3
-61.txt_chunk3,Đại học Quốc gia Hà Nội đã ban hành chương trình đào tạo trình độ đại học ngành Công nghệ truyền thông vào ngày nào?,28 tháng 4 năm 2025
-61.txt_chunk3,"Trường Khoa học Liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có địa chỉ tại số 144 Xuân Thủy, Cầu Giấy, Hà Nội.",Có
-61.txt_chunk3,Đại học Quốc gia Hà Nội có trụ sở chính tại Hà Nội.,Có
-32.txt_chunk1,Đại học Quốc gia Hà Nội (ĐHQGHN) có tên trước đây là gì?,ĐHQGHN có tên trước đây là Đại học Hà Nội
-32.txt_chunk1,Thời điểm GS.TSKH Vũ Minh Giang cho biết ý kiến chỉ đạo của mình là năm nào?,Năm 2012
-32.txt_chunk1,Vị trí công tác của GS.TSKH Vũ Minh Giang là gì?,Phó Giám đốc ĐHQGHN
-32.txt_chunk2,Trung tâm Truyền thông và Quan hệ công chúng của ĐHQGHN có vai trò gì?,"Là đơn vị chủ công, đi đầu, chính yếu và nòng cốt cho quảng bá hình ảnh, thương hiệu ĐHQGHN"
-32.txt_chunk2,Năm học nào Phó Giám đốc Vũ Minh Giang lưu ý với cán bộ Trung tâm bám sát nội dung lớn của đất nước và ĐHQGHN?,Năm học tới
-66.txt_chunk1,Đại học Quốc gia Hà Nội - Vietnam Japan University (VJU) nằm ở đâu?,Hà Nội
-66.txt_chunk1,VJU có bao nhiêu ngành đào tạo?,Không rõ (tài liệu không cung cấp thông tin này)
-66.txt_chunk1,VJU có thể nhận hồ sơ dự tuyển theo phương thức nào?,Không rõ (tài liệu không cung cấp thông tin này)
-66.txt_chunk1,VJU có học phí bao nhiêu?,Không rõ (tài liệu không cung cấp thông tin
-66.txt_chunk2,Trường Đại học Việt Nhật có cơ sở tại địa điểm nào?,"Trường Đại học Việt Nhật có cơ sở tại đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội và Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
-66.txt_chunk2,Số điện thoại của Trường Đại học Việt Nhật là gì?,(+84) 966 954 736 và (+84) 969 638 426
-66.txt_chunk3,Đại học VJU được thành lập tại khu vực nào?,Khuôn viên và cơ sở vật chất của VJU
-66.txt_chunk3,Học bổng Nghiên Cứu có thể được áp dụng cho lĩnh vực nào?,Lĩnh vực nghiên cứu chính
-66.txt_chunk3,Cơ hội học tập tại nước ngoài được cung cấp bởi đối tác nào?,Đối tác đại học
-66.txt_chunk3,VJU có thư viện ở đâu?,"VNU-LIC, VJU"
-54.txt_chunk1,Trường ĐHKHTN thuộc số ít đơn vị trong cả nước thực hiện đào tạo sau đại học với tỷ lệ học viên sau đại học lớn hơn bao nhiêu phần trăm tổng số sinh viên đại học chính quy?,Lớn hơn 30%
-54.txt_chunk1,Năm nào Trường ĐHKHTN triển khai áp dụng phương thức đào tạo tín chỉ?,Từ năm 2007
-54.txt_chunk2,Trường ĐHKHTN đã triển khai thực hiện các dự án đào tạo đặc biệt từ thời điểm nào?,Từ cuối năm 2005
-54.txt_chunk2,Trường ĐHKHTN đã ký hợp tác với Đại học Illinois at Urbana and Champaign (Hoa Kỳ) từ thời điểm nào?,Cuối năm 2005
-54.txt_chunk2,"Trường ĐHKHTN đã ký hợp tác với Đại học Washington, Seattle (Hoa Kỳ) từ thời điểm nào?",Cuối năm 2007
-54.txt_chunk3,Trường Đại học Khoa học Tự nhiên được thành lập vào năm nào?,1967
-54.txt_chunk3,Trường Đại học Khoa học Tự nhiên có trụ sở tại địa điểm nào?,"334 Nguyễn Trãi, Thanh Xuân, Hà Nội"
-54.txt_chunk3,Số lượng giảng viên của Trường Đại học Khoa học Tự nhiên hiện tại là bao nhiêu?,Không có thông tin cụ thể
-59.txt_chunk1,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội công bố thông tin tuyển sinh đại học chính quy năm 2025 vào ngày nào?",7/5/2025
-59.txt_chunk1,Đại học Quốc gia Hà Nội ban hành chương trình đào tạo trình độ đại học ngành Công nghệ truyền thông vào ngày nào?,28/4/2025
-59.txt_chunk2,Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội có địa chỉ ở đâu?,Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội có địa chỉ tại Hà Nội
-59.txt_chunk2,Đại học Quốc gia Hà Nội có tên gọi khác là gì?,Đại học Quốc gia Hà Nội còn được gọi là VNU
-59.txt_chunk2,Năm 2025 là năm nào trong thập niên?,Năm 2025 là năm thứ
-31.txt_chunk1,ĐHQGHN tuyển sinh gần 10.000 chỉ tiêu vào năm nào?,2019
-31.txt_chunk1,ĐHQGHN mở mới bao nhiêu ngành đào tạo đáp ứng nhu cầu nhân lực của thị trường lao động vào năm 2019?,13
-31.txt_chunk1,"Địa điểm của Trường Đại học Công nghệ, ĐHQGHN là ở đâu?",Hà Nội
-31.txt_chunk1,"Ngành đào tạo của Trường Đại học Công nghệ, ĐHQGHN bao gồm các lĩnh vực nào?",Khoa
-31.txt_chunk2,ĐHQGHN tuyển sinh bao nhiêu ngành đào tạo thí điểm?,15
-31.txt_chunk2,"Năm 2017, ĐHQGHN đã triển khai Xác nhận nhập học trực tuyến vào thời điểm nào?",Từ năm 2017
-31.txt_chunk2,ĐHQGHN có nhiều CTĐT chất lượng cao sử dụng tổ hợp xét tuyển có môn ngoại ngữ hay không?,Có
-31.txt_chunk3,Trường Đại học Công nghệ của Đại học Quốc Gia Hà Nội tuyển sinh vào năm nào?,Năm 2025
-31.txt_chunk3,Đại học Quốc Gia Hà Nội có tên gọi ban đầu là gì?,Đại học Hà Nội
-31.txt_chunk3,Trường Đại học Công nghệ của Đại học Quốc Gia Hà Nội có ký kết hợp tác với trường Đại học nào ở Trung Quốc?,Trường Đại học Khoa học Kỹ thuật Sơn Đông
-31.txt_chunk3,Đại học Quốc Gia Hà Nội có bao nhiêu trường đại học thành viên?,
-36.txt_chunk1,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập năm nào?,không rõ
-36.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,không rõ
-36.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở vật chất?,không rõ
-36.txt_chunk1,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở trực thuộc?,không rõ
-65.txt_chunk1,Đại học Vietnam Japan University (VJU) có trụ sở tại thành phố nào?,Hà Nội
-65.txt_chunk1,VJU được thành lập vào năm nào?,"Không rõ ràng trong tài liệu, nhưng có thể liên quan đến việc thành lập năm 2013 như một trường hợp riêng biệt"
-65.txt_chunk1,VJU có cung cấp chương trình đào tạo tiến sĩ không?,Có
-65.txt_chunk1,VJU có cung cấp học bổng cho sinh viên không?,Có
-65.txt_chunk2,Trường Đại học Việt Nhật có trụ sở tại thành phố nào?,Hà Nội
-65.txt_chunk2,Số điện thoại của Trường Đại học Việt Nhật là bao nhiêu?,(+84) 966 954 736 và (+84) 969 638 426
-65.txt_chunk2,Địa chỉ cơ sở Mỹ Đình của Trường Đại học Việt Nhật là gì?,"đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
-65.txt_chunk3,Đại học VJU có trụ sở chính ở đâu?,VJU
-65.txt_chunk3,VJU có hợp tác với các đối tác đại học nào?,Có
-65.txt_chunk3,Đại học VJU có cơ sở vật chất bao gồm khuôn viên và gì khác?,cơ sở vật chất của VJU
-65.txt_chunk3,VJU có đào tạo sau đại học không?,Có
-8.txt_chunk1,Khi nào Giám đốc ĐHQGHN ký Quyết định số 3626/QĐ-ĐHQGHN ban hành Quy chế Đào tạo đại học của Đại học Quốc gia Hà Nội?,Ngày 21/10/2022
-8.txt_chunk1,Quy chế Đào tạo đại học của ĐHQGHN bao gồm các chương và điều nào?,"9 chương, 51 điều"
-8.txt_chunk2,Số bản tin ĐHQGHN mới nhất được xuất bản vào năm 2024 là số nào?,Số 386
-8.txt_chunk2,Thành phố nào được liên quan đến việc xuất bản bản tin ĐHQGHN?,Không có thông tin cụ thể về thành phố liên quan
-8.txt_chunk2,Số bản tin ĐHQGHN đặc biệt nhất là số nào?,Số 385 (Số đặc biệt Tết Giáp Thìn)
-8.txt_chunk3,Đại học Quốc gia Hà Nội có bản tin số nào là Bản tin số 236?,Bản tin số 236 (10/2010)
-8.txt_chunk3,Địa điểm đặt trụ sở của Đại học Quốc gia Hà Nội là quận nào ở Hà Nội?,Quận Cầu Giấy
-8.txt_chunk3,Năm nào Đại học Quốc gia Hà Nội xuất bản Bản tin số 203?,2008
-14.txt_chunk1,Trường đại học thành viên thuộc Đại học Quốc gia Hà Nội là bao nhiêu?,9
-14.txt_chunk1,Trách nhiệm của các Trường thành viên trong hoạt động đào tạo là gì?,"Đa dạng và phong phú, bao gồm cả việc đào tạo và nghiên cứu khoa học"
-14.txt_chunk1,Địa chỉ của Công ty THƯ VIỆN PHÁP LUẬT là gì?,"17 Nguyễn Gia Thiều, P.6, Q.3, TP.HCM"
-14.txt_chunk2,Đại học Quốc gia Hà Nội có bao nhiêu Trường đại học thành viên?,09
-14.txt_chunk2,Đại học Quốc gia Hà Nội hoạt động dựa trên cơ sở nào?,Điều lệ trường đại học và Quy chế tổ chức và hoạt động của Đại học quốc gia và cơ sở giáo dục đại học thành viên
-14.txt_chunk2,Hiệu trưởng trường đại học thành viên chịu trách nhiệm về tất cả các hoạt động của trường?,Có
-14.txt_chunk3,"Trường đại học thành viên thuộc Đại học Quốc gia Hà Nội chịu trách nhiệm về tất cả các hoạt động của trường và là người đại diện pháp lý của trường trong quan hệ với Đại học quốc gia, các tổ chức và cá nhân trong nước, ngoài nước.",Có
-14.txt_chunk4,Đại học Sài Gòn (SGU) có mã trường là gì?,Mã trường của Đại học Sài Gòn là SGU
-14.txt_chunk4,Mã trường Đại học Công Thương TP HCM là gì?,Mã trường Đại học Công Thương TP HCM là HUIT
-14.txt_chunk4,Đại học Sư phạm TPHCM có bao nhiêu mã ngành?,Không có thông tin cụ thể về số lượng mã ngành của Đại học Sư phạm TPHCM trong tài liệu
-14.txt_chunk5,Thể thao nào thường được tổ chức tại các sân vận động lớn?,Bóng đá
-14.txt_chunk5,Du lịch có thể bao gồm các hoạt động nào?,"Thăm quan di tích lịch sử, tham gia các sự kiện thể thao, thư giãn tại các bãi biển"
-58.txt_chunk1,Đại học Quốc gia Hà Nội được thành lập năm nào?,"Không rõ từ tài liệu này, nhưng Đại học Quốc gia Hà Nội được thành lập năm 1994 theo Nghị quyết số 117/1994/NQ-QHQH10 của Quốc hội"
-58.txt_chunk1,Vị trí tuyển dụng của Đại học Quốc gia Hà Nội bao gồm các loại nào?,"Theo tài liệu, vị trí tuyển dụng bao gồm các loại như ""C"
-58.txt_chunk2,LHS đến dự học theo hiệp định được ký kết giữa Chính phủ Việt Nam và Chính phủ nước ngoài có thể đăng ký học tại trường nào?,Đại học Quốc gia Hà Nội (ĐHQGHN)
-58.txt_chunk2,"Để được nhập học tại ĐHQGHN, LHS phải có đủ trình độ tiếng Việt hoặc ngoại ngữ đáp ứng yêu cầu học tập, nghiên cứu của chương trình đào tạo.",Có
-58.txt_chunk3,"Để đăng ký học các ngành khoa học tự nhiên và công nghệ, LHS cần có điểm TOEFL hoặc IELT bao nhiêu?","500 điểm hoặc 5,5 điểm trở lên"
-58.txt_chunk3,"Để đăng ký học các ngành khoa học xã hội nhân văn, kinh tế, luật, LHS cần có điểm TOEFL hoặc IELT bao nhiêu?",550 điểm hoặc 6 điểm trở lên
-58.txt_chunk4,LHS được tiếp nhận vào học tập chương trình đào tạo bậc đại học có mặt tại đơn vị đào tạo trước ngày nào?,1 tháng 9
-58.txt_chunk4,"Thời gian nhập học cho LHS được tiếp nhận vào học tập chương trình đào tạo bậc thạc sĩ, tiến sĩ là vào thời hạn ghi trong giấy triệu tập nào?",giấy triệu tập
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,"Không rõ trong tài liệu, nhưng có thể là nhiều trường đại học thành viên"
+39.txt,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,Không rõ trong tài liệu
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu khoa trực thuộc?,Không rõ trong tài liệu
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo?,"Có nhiều chương trình đào tạo như chương trình đào tạo chuẩn, chất lượng cao, tài năng, đạt chuẩn quốc tế, ngành chính - ngành phụ, ngành kép,.."
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu hình thức đào tạo?,Có hai hình thức đào tạo chính là đào tạo chính quy và đào tạo vừa làm vừa học
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu nguồn kinh phí đào tạo?,"Có nguồn kinh phí từ Ngân sách nhà nước, học phí và các nguồn kinh phí hợp pháp khác"
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị đào tạo?,"Có nhiều đơn vị đào tạo như các trường đại học thành viên, các khoa và trung tâm trực thuộc có nhiệm vụ thường xuyên về đào tạo đại học"
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu tiêu chuẩn đánh giá chất lượng đào tạo?,"Có nhiều tiêu chuẩn đánh giá chất lượng đào tạo như kiểm định chất lượng giáo dục, kiểm tra, đánh giá kết quả học tập, công nhận tốt nghiệp,.."
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở vật chất phục vụ công tác đào tạo?,"Có nhiều cơ sở vật chất như giảng đường, phòng thí nghiệm, thư viện, cơ sở giáo dục quốc phòng, giáo dục thể chất, cơ sở hạ tầng công nghệ thông tin,.."
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu giảng viên và cán bộ nghiên cứu khoa học?,Không rõ trong tài liệu
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu sinh viên theo học?,Không rõ trong tài liệu
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở đào tạo đại học có tư cách pháp nhân của nước ngoài?,Không rõ trong tài liệu
+39.txt,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo liên kết quốc tế?,Có nhiều chương trình
+35.txt,Đại học Quốc gia Hà Nội có trụ sở tại thành phố nào?,Hà Nội
+35.txt,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,Không rõ
+35.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,Không rõ
+35.txt,"Đại học Quốc gia Hà Nội có trụ sở tại khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội từ năm nào?",Không rõ
+35.txt,"Đại học Quốc gia Hà Nội có trụ sở tại khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội có giấy phép số 993/GP-TTĐT từ năm nào?",2020
+35.txt,"Đại học Quốc gia Hà Nội có trụ sở tại khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội có webmaster là ai?",media@vnu.edu.vn kiemtra_spam@vnu.edu.vn
+40.txt,"Đại học Quốc gia Hà Nội tổ chức Hội nghị Khoa học, công nghệ và đổi mới sáng tạo thường niên năm 2023 vào ngày nào?",15/6/2023
+40.txt,ĐHQGHN xác định năm 2023 là năm đột phá về hoạt động KH&CN. Mục tiêu của năm này là gì?,"Tập trung phát triển các nghiên cứu ứng dụng, chuyển giao và thương mại hóa sản phẩm KH&CN"
+40.txt,Các nhóm nghiên cứu mạnh của ĐHQGHN được ưu tiên đầu tư để đạt trình độ khu vực và quốc tế. Các lĩnh vực nghiên cứu của các nhóm này bao gồm?,"Các lĩnh vực nghiên cứu ứng dụng, chuyển giao và thương mại hóa sản phẩm KH&CN"
+40.txt,"ĐHQGHN đã ban hành nhiều cơ chế, chính sách trọng dụng, đãi ngộ các nhà khoa học, tạo động lực thúc đẩy phát triển các tiềm lực KH&CN và đổi mới sáng tạo. Các chính sách này bao gồm?","Đầu tư cho phòng thí nghiệm/trung tâm nghiên cứu trọng điểm, Nhóm nghiên cứu mạnh; Hỗ trợ công bố quốc tế; Hỗ trợ cán bộ nghiên cứu trẻ; Thu hút nhà khoa học xuất sắc về làm việc tại ĐHQGHN; Hỗ trợ hợp tác song phương và đa phương cho các dự án hợp tác quốc tế lớn và cho các đối tác cùng đầu tư kinh phí; Hỗ trợ phát triển doanh nghiệp spin-off; Trao thưởng và vinh danh cho nhà khoa học xuất sắc; Thúc đẩy liên kết với doanh nghiệp/phát triển hệ sinh thái đổi mới sáng tạo"
+40.txt,"ĐHQGHN đã công bố danh sách 09 phòng thí nghiệm/trung tâm nghiên cứu trọng điểm cấp ĐHQGHN giai đoạn 2023-2028, bao gồm?",09 phòng thí nghiệm/trung tâm nghiên cứu trọng điểm cấp ĐHQGHN giai đoạn 2023-
+40.txt,ĐHQGHN đã công bố danh sách 30 nhóm nghiên cứu mạnh cấp ĐHQGHN bao gồm?,30 nhóm nghiên cứu mạnh cấp ĐHQGHN
+40.txt,ĐHQGHN đã công bố hỗ trợ 06 nhóm nghiên cứu mạnh/phòng thí nghiệm trọng điểm nhằm phát triển sản phẩm bao gồm?,06 nhóm nghiên cứu mạnh/phòng thí nghiệm trọng điểm
+21.txt,Đại học Quốc gia Hà Nội có tên gọi nào khác trước đây?,Không có thông tin cụ thể trong tài liệu về tên gọi trước đây của Đại học Quốc gia Hà Nội
+21.txt,Địa điểm đặt trụ sở của Đại học Quốc gia Hà Nội là ở đâu?,"Khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội"
+21.txt,Giấy phép số 993/GP-TTĐT ngày 20/3/2020 là giấy phép của cơ quan nào?,Sở Thông tin và Truyền thông Hà Nội
+21.txt,Địa chỉ liên hệ của Đại học Quốc gia Hà Nội là gì?,Không có thông tin cụ thể trong tài liệu về địa chỉ liên hệ của Đại học Quốc gia Hà Nội
+21.txt,"Đại học Quốc gia Hà Nội có nhiều trường trực thuộc, bao gồm các trường nào?",Không có thông tin cụ thể trong tài liệu về danh sách các trường trực thuộc của Đại học Quốc gia Hà Nội
+21.txt,"Đại học Quốc gia Hà Nội có nhiều đơn vị nghiên cứu khoa học, bao gồm các đơn vị nào?",Không có thông tin cụ thể trong tài liệu về danh sách các đơn vị nghiên cứu khoa học của Đại học Quốc gia Hà Nội
+21.txt,"Đại học Quốc gia Hà Nội có nhiều trung tâm đào tạo trực thuộc, bao gồm các trung tâm nào?",Không có thông tin cụ thể trong tài liệu về danh sách các trung tâm đào tạo trực thuộc của Đại học Quốc gia Hà Nội
+21.txt,"Đại học Quốc gia Hà Nội có nhiều đơn vị dịch vụ và hỗ trợ, bao gồm các đơn vị nào?",Không có thông tin cụ thể trong tài liệu về danh sách các đơn vị dịch vụ và hỗ trợ của Đại học Quốc gia Hà Nội
+21.txt,"Đại học Quốc gia Hà Nội có nhiều đơn vị thực hiện nhiệm vụ đặc biệt, bao gồm các đơn vị nào?",Không có thông tin cụ thể trong tài liệu về danh sách các đơn vị thực hiện nhiệm vụ đặc biệt của Đại học Quốc gia Hà Nội
+21.txt,"Đại học Quốc gia Hà Nội có nhiều văn bản pháp quy, bao gồm các văn bản nào?",Không có thông tin cụ thể trong tài liệu về danh sách các văn bản pháp quy của Đại học Quốc gia Hà Nội.
+18.txt,"Trường Đại học Giáo dục, Đại học Quốc gia Hà Nội được thành lập vào năm nào?",2009
+18.txt,Thành phố Hà Nội là thủ đô của quốc gia nào?,Việt Nam
+18.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên?,6
+18.txt,Khoa Sư phạm được thành lập vào ngày nào?,21/12/1999
+18.txt,Hiệu trưởng Trường Đại học Giáo dục hiện tại là ai?,GS.TS. Nguyễn Quý Thanh
+18.txt,Trường Đại học Giáo dục có bao nhiêu khoa?,6
+18.txt,"Viện Nghiên cứu lâm sàng về xã hội, tâm lý và giáo dục được thành lập vào ngày nào?",26/09/2022
+18.txt,Trường Đại học Giáo dục có bao nhiêu sinh viên sau đại học?,1066
+18.txt,Trường Đại học Giáo dục có bao nhiêu giảng viên?,118
+18.txt,Đại học Quốc gia Hà Nội có bao nhiêu thành viên trong ASEAN?,1
+18.txt,Trường Đại học Giáo dục có bao nhiêu Phó hiệu trưởng?,2
+46.txt,Trường ĐHKHTN được thành lập trên cơ sở hợp nhất 4 khối THPT Chuyên vào năm nào?,Năm 2010
+46.txt,Số lượng sinh viên hệ đại học chính quy của Trường ĐHKHTN trong năm nào giữ ổn định?,Năm 2010
+46.txt,Trường ĐHKHTN đã triển khai áp dụng phương thức đào tạo tín chỉ toàn phần vào năm nào?,Năm 2010
+46.txt,Số lượng chuyên ngành đào tạo tiến sĩ của Trường ĐHKHTN hiện nay là bao nhiêu?,48
+46.txt,Số lượng chuyên ngành đào tạo thạc sĩ của Trường ĐHKHTN hiện nay là bao nhiêu?,46
+46.txt,Địa chỉ của Trường ĐHKHTN là ở đâu?,"334 Nguyễn Trãi, Thanh Xuân, Hà Nội"
+46.txt,Số điện thoại của Trường ĐHKHTN là bao nhiêu?,(84) 0243-8584615 / 8581419
+46.txt,Số fax của Trường ĐHKHTN là bao nhiêu?,(84) 0243-8523061
+46.txt,Email của Trường ĐHKHTN là gì?,hus@vnu.edu.vn - admin@hus.edu.vn
+46.txt,"Năm Trường ĐHKHTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống của Trường ĐHTH Hà Nội - Trường đại học đầu tiên và lớn nhất của đất nước là năm nào?",Hơn 55 năm trước
+46.txt,Năm Trường ĐHKHTN được thành lập là năm nào?,Không rõ
+46.txt,Địa chỉ của Trường ĐHKHTN là ở đâu?,334 Nguyễn Trãi - Thanh Xuân - Hà Nội
+46.txt,"Số lượng sinh viên hệ cử nhân khoa học tài năng (CNKHTN) của Trường ĐHKHTN đã được ĐHQGHN, Bộ GD&ĐT và các trường đối tác nước ngoài đánh giá cao là bao nhiêu?",Không rõ
+57.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) có bao nhiêu chỉ tiêu tuyển sinh đại học chính quy năm 2024?,18.000
+57.txt,ĐHQGHN tuyển sinh trên phạm vi cả nước và quốc tế vào bao nhiêu ngành/CTĐT?,148
+57.txt,"Năm 2024, ĐHQGHN mở bao nhiêu CTĐT mới?",07
+57.txt,ĐHQGHN có bao nhiêu chỉ tiêu tuyển sinh bằng kép năm 2024?,875
+57.txt,Thời gian xét tuyển đợt 1 của ĐHQGHN dự kiến là bao giờ?,Trước 17h 00 ngày 19/8/2024
+57.txt,Thí sinh trúng tuyển (đợt 1) nhập học trước 17h 00 ngày 27/8/2024,Có thời gian cụ thể theo thông báo của các đơn vị đào tạo
+57.txt,Địa chỉ trang thông tin điện tử của ĐHQGHN là gì?,http://vnu.edu.vn
+57.txt,Địa chỉ trang mạng xã hội của ĐHQGHN là gì?,https://www.facebook.com/VNU.DHQG
+57.txt,Số điện thoại liên hệ của ĐHQGHN là gì?,0243.7547.670 (máy lẻ 432)
+57.txt,ĐHQGHN có bao nhiêu sinh viên đang học tại các đơn vị đào tạo theo hình thức đào tạo chính quy?,55.685
+56.txt,Trường Đại học Khoa học Xã hội và Nhân văn (ĐHQGHN) được thành lập vào năm nào?,Năm 1945
+56.txt,Số lượng chương trình đào tạo tại Trường Đại học Khoa học Xã hội và Nhân văn (ĐHQGHN) là bao nhiêu?,95
+56.txt,"Số lượng quốc gia có trường Đại học, Trung tâm nghiên cứu khoa học và tổ chức Giáo dục hợp tác với Trường Đại học Khoa học Xã hội và Nhân văn (ĐHQGHN) là bao nhiêu?",30
+56.txt,"Số lượng cán bộ, sinh viên học tập, nghiên cứu, trao đổi quốc tế tại Trường Đại học Khoa học Xã hội và Nhân văn (ĐHQGHN) là khoảng bao nhiêu?",~200
+56.txt,Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn (ĐHQGHN) là ở đâu?,"336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
+56.txt,"Số lượng sinh viên, học viên cao học và nghiên cứu sinh đang theo học tại Trường Đại học Khoa học Xã hội và Nhân văn (ĐHQGHN) là khoảng bao nhiêu?",~11.000
+28.txt,Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội có hệ thống nào được công bố vào năm 2019?,Cổng thông tin tuyển sinh
+28.txt,Số tiền học bổng ULIS-SNHU TALENT dành cho thủ khoa được công bố là bao nhiêu?,55.800.000đ
+28.txt,Địa điểm được đề cập trong học bổng ULIS-SNHU TALENT là nơi nào?,Nhật Bản hoặc Đài Loan
+28.txt,Số suất học bổng được đề cập trong thông báo là bao nhiêu?,02 suất học bổng ULIS-SNHU STAR-UP và các suất học bổng khuyến học
+28.txt,Địa chỉ của Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội là nơi nào?,Đường Phạm Văn Đồng – Quận Cầu Giấy – Hà Nội
+23.txt,Kỳ thi tuyển sinh vào lớp 10 sẽ diễn ra vào ngày nào?,10-11/6
+23.txt,Số học sinh lớp 9 năm học 2022-2023 tại Hà Nội là bao nhiêu?,129.210
+23.txt,Tỷ lệ học sinh có cơ hội đỗ vào lớp 10 công lập tại Hà Nội năm nay chiếm bao nhiêu?,"55,7%"
+23.txt,Số chỉ tiêu học sinh vào trường THPT công lập tại Hà Nội năm nay tăng thêm bao nhiêu so với năm trước?,1.000
+23.txt,Kỳ nghỉ lễ 30/4 – 1/5 năm nay kéo dài bao nhiêu ngày?,4 ngày
+23.txt,Số học sinh có cơ hội đỗ vào lớp 10 công lập chiếm tỷ lệ thấp nhất trong 4 năm trở lại đây là năm nào?,Năm nay
+23.txt,"Số chỉ tiêu vào trường THPT công lập tự chủ và tư thục, trung tâm GDNN - GDTX và các cơ sở giáo dục nghề nghiệp tại Hà Nội là bao nhiêu?",Số còn lại sau khi trừ số học sinh vào trường THPT công lập
+68.txt,Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội có địa chỉ ở đâu?,"Nhà G7, Đại học Quốc gia Hà Nội, số 144 Xuân Thủy, Cầu Giấy, Hà Nội"
+68.txt,Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội là?,0243 754 7716 | 0981290448
+68.txt,Email của Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội là?,tuyensinhliennganh@vnu.edu.vn
+68.txt,Đại học Quốc gia Hà Nội có tên viết tắt là?,VNU
+68.txt,Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội có trang Facebook là?,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội"
+68.txt,Số năm thành lập của Đại học Carnegie Mellon là?,1900
+68.txt,Địa điểm tổ chức của Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội là?,"Nhà G7, Đại học Quốc gia Hà Nội"
+68.txt,Số điện thoại liên hệ của Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội là?,0243 754 7716 | 0981290448
+15.txt,Đại học Quốc gia Hà Nội có tên tiếng Anh là gì?,Vietnam National University Hanoi (VNU)
+15.txt,Địa chỉ của Trường Đại học Quốc gia Hà Nội là ở đâu?,"144 đường Xuân Thủy, Quận Cầu Giấy, Hà Nội"
+15.txt,Thời gian xét tuyển đợt 1 của Trường Đại học Quốc gia Hà Nội là từ khi nào đến khi nào?,Từ ngày 24/9/2020 đến trước 17h00 ngày 26/9/2020
+15.txt,Hồ sơ xét tuyển của Trường Đại học Quốc gia Hà Nội bao gồm những giấy tờ nào?,"2 phiếu xét tuyển học bạ, bản photo 2 mặt Chứng minh thư hoặc thẻ căn cước công dân, 2 ảnh 4×6, 2 phong bì dán sẵn tem và ghi rõ địa chỉ liên lạc của thí sinh"
+15.txt,Trường Đại học Quốc gia Hà Nội tuyển sinh trong phạm vi cả nước và quốc tế?,Có
+15.txt,Phương thức xét tuyển của Trường Đại học Quốc gia Hà Nội bao gồm những phương thức nào?,"Xét tuyển thẳng, ưu tiên xét tuyển theo Quy chế tuyển sinh của Bộ Giáo Dục và Đào tạo và Quy định đặc thù của trường, xét tuyển dựa trên kết quả thi tốt nghiệp Trung học phổ thông năm 2020 và các phương thức khác (SAT, A-LEVEL, IELTS)"
+15.txt,Chỉ tiêu tuyển sinh của Trường Đại học Quốc gia Hà Nội năm 2020 là khoảng bao nhiêu?,10.320
+15.txt,Học phí dự kiến của Trường Đại học Quốc gia Hà Nội đối với sinh viên chính quy chuẩn là bao nhiêu?,"Từ 9,8 – 14,3 triệu đồng/năm/sinh viên"
+15.txt,Thời gian xét tuyển đợt bổ sung của Trường Đại học Quốc gia Hà Nội dự kiến từ khi nào đến khi nào?,Dự kiến từ ngày 03/10/2020
+15.txt,"Trường Đại học Quốc gia Hà Nội xét tuyển thẳng, ưu tiên xét tuyển cho những đối tượng nào?","Học sinh Trung học Phổ thông chuyên thuộc Đại học Quốc Gia Hà Nội, học sinh Trung học Phổ thông chuyên của các trường Trung học Phổ thông cấp tỉnh, thành phố trực thuộc trung ương, học sinh không chuyên của các trường Trung học Phổ thông thuộc ĐHQ"
+34.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập vào năm nào?,Không có thông tin cụ thể về năm thành lập trong tài liệu
+34.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,Không có thông tin cụ thể về số lượng trường đại học thành viên trong tài liệu
+34.txt,Website kỷ niệm 100 năm ĐHQGHN được ra mắt vào năm nào?,Không có thông tin cụ thể về năm ra mắt trong tài liệu
+34.txt,"Đại học Quốc gia Hà Nội có trụ sở chính tại khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội hay không?",Có
+34.txt,Đại học Quốc gia Hà Nội có giấy phép số 993/GP-TTĐT ngày 20/3/2020 của Sở Thông tin và Truyền thông Hà Nội hay không?,Có
+34.txt,"Đại học Quốc gia Hà Nội có khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội hay không?",Có
+34.txt,Đại học Quốc gia Hà Nội có trụ sở chính tại Hà Nội hay không?,Có
+34.txt,Đại học Quốc gia Hà Nội có nhiều cơ sở tại Hà Nội hay không?,Có
+34.txt,"Đại học Quốc gia Hà Nội có nhiều cơ sở tại khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội hay không?",Có
+30.txt,"Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN thông báo kế hoạch tuyển sinh đại học hệ chính quy các chương trình đào tạo (CTĐT) ngành thứ hai năm 2024 (đợt 2) vào ngày nào?",8/11/2024
+30.txt,Kỳ thi Olympic bậc THPT của Đại học Quốc gia Hà Nội cho các môn Ngữ văn và Lịch sử diễn ra vào ngày nào?,27/10/2024
+30.txt,Vị trí Quán quân của Vòng Chung kết “Đại sứ Văn hóa Du lịch sinh viên năm 2024” là ai?,Vi Thị Thuỳ Trang
+30.txt,"Chương trình Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh tại Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN từ kỳ tuyển sinh đợt 2 năm 2024 vào ngày nào?",28/10/2024
+30.txt,"Học viên sau khi tốt nghiệp thạc sĩ có khả năng phân tích được hệ thống chính sách và kiến thức liên ngành làm cơ sở triển khai hoạt động nghiên cứu, tư vấn chính sách phù hợp với thực tiễn pháp lý và bối cảnh đời sống xã hội Việt Nam trong môi trường toàn cầu vào lĩnh vực nào?","Công tác tín ngưỡng, tôn giáo"
+30.txt,Hội đồng tuyển sinh đại học chính quy năm 2024 trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội thông báo mức điểm trúng tuyển đại học chính quy phương thức xét tuyển kết quả thi tốt nghiệp THPT (100) năm 2024 vào ngày nào?,17/8/2024
+30.txt,Trường Đại học Khoa học Xã hội và Nhân văn (KHXH&NV) - Đại học Quốc gia Hà Nội thông báo kết quả thi tuyển sinh lớp 10 Trường THPT Chuyên KHXH&NV năm 2024 vào ngày nào?,12/6/2024
+63.txt,Trường Đại học Việt Nhật (VJU) có trụ sở tại thành phố nào?,Hà Nội
+63.txt,VJU có cơ sở thứ hai ở địa điểm nào?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+63.txt,VJU có hotline nào để liên hệ?,(+84) 966 954 736 hoặc (+84) 969 638 426
+63.txt,VJU có địa chỉ email nào để liên hệ?,admission@vju.ac.vn hoặc info@vju.ac.vn
+63.txt,VJU có cơ sở thứ hai ở địa điểm nào?,"Trường Đại học Việt Nhật, Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+63.txt,VJU có hotline nào để liên hệ?,(+84) 966 954 736 hoặc (+84) 969 638 426
+63.txt,VJU có địa chỉ email nào để liên hệ?,admission@vju.ac.vn hoặc info@vju.ac.vn
+63.txt,"VJU có trụ sở tại đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội.",Có
+63.txt,VJU có hotline nào để liên hệ?,(+84) 966 954 736 hoặc (+84) 969 638 426
+63.txt,VJU có địa chỉ email nào để liên hệ?,admission@vju.ac.vn hoặc info@vju.ac.vn
+63.txt,"VJU có trụ sở tại đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội.",Có
+63.txt,VJU có hotline nào để liên hệ?,(+84) 966 954 736 hoặc (+84) 969 638 426
+63.txt,VJU có địa chỉ email nào để liên hệ?,admission@vju.ac.vn hoặc info@vju.ac.vn
+63.txt,"VJU có trụ sở tại đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội.",Có
+63.txt,VJU có hotline nào để liên hệ?,(+84) 966 954 736 hoặc (+84) 969
+2.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập theo Nghị định số 97/CP ngày 10 tháng 12 năm 1993 của Chính phủ.,1993
+2.txt,ĐHQGHN chính thức bước vào hoạt động theo Quy chế do Thủ tướng Chính phủ ban hành ngày 5/9/1994.,5/9/1994
+2.txt,Thành lập Trường Đại học Công nghệ trên cơ sở nâng cấp và phát triển Khoa Công nghệ.,2004
+2.txt,Thành lập Trường Đại học Kinh tế trên cơ sở nâng cấp Khoa Kinh tế.,2007
+2.txt,Thành lập Viện Việt Nam học và Khoa học Phát triển trên cơ sở Trung tâm nghiên cứu Việt Nam và Giao lưu văn hóa.,2004
+2.txt,ĐHQGHN có bao nhiêu trường đại học?,6
+2.txt,ĐHQGHN có bao nhiêu viện nghiên cứu?,4
+2.txt,ĐHQGHN có bao nhiêu trung tâm đào tạo và nghiên cứu?,10
+2.txt,ĐHQGHN có bao nhiêu đơn vị phục vụ đào tạo?,10
+2.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) có trụ sở chính tại địa điểm nào?,"Hoà Lạc, Thạch Thất, Hà Nội"
+12.txt,Trường Quốc tế hiện đang đào tạo bao nhiêu chương trình cử nhân liên kết với các trường đại học đối tác nước ngoài uy tín?,3
+12.txt,Thời lượng thiết kế của khóa học từ bao lâu đến bao lâu?,"3,5 đến 4 năm"
+12.txt,Ngôn ngữ giảng dạy của chương trình là tiếng gì?,tiếng Anh
+12.txt,Cơ sở Xuân Thuỷ của Trường Quốc tế có địa chỉ tại đâu?,"144 Xuân Thủy, Cầu Giấy, Hà Nội"
+12.txt,Số điện thoại của Trường Quốc tế là số nào?,024.3557.5992
+12.txt,Email của Trường Quốc tế là địa chỉ nào?,truongquocte@vnuis.edu.vn
+12.txt,Đại học Quốc gia Hà Nội có địa chỉ tại đâu?,"Khu Đô thị đại học, Đại học Quốc gia Hà Nội tại Hoà Lạc, Hà Nội"
+12.txt,"Số lượng học giả, cố vấn danh tiếng từ các trường đại học hàng đầu được Trường Quốc tế thu hút là bao nhiêu?","không rõ ràng, không có thông tin cụ thể về số lượng trong tài liệu"
+0.txt,Đại học Quốc gia Hà Nội di chuyển trụ sở làm việc từ Cầu Giấy tới Hòa Lạc vào ngày nào?,19/5/2025
+0.txt,"Đại học Quốc gia Hà Nội tổ chức tọa đàm ""Định hướng chiến lược nghiên cứu khoa học và đào tạo nhân lực ngành công nghiệp bán dẫn"" vào ngày nào?",18 & 19/5/2025
+0.txt,Bà Nguyễn Bích Yến làm Chủ tịch danh dự Viện Bán dẫn và Vật liệu tiên tiến từ ngày nào?,18/5/2025
+0.txt,Số lượng tác phẩm đoạt giải Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng năm 2025 cấp ĐHQGHN là bao nhiêu?,42
+0.txt,"Số lượng học bổng ""Ươm tạo nhà khoa học trẻ KBSV-ĐHQGHN"" năm học 2024-2025 được trao cho sinh viên là bao nhiêu?",40
+0.txt,Địa chỉ của khu đô thị ĐHQGHN tại Hòa Lạc là ở đâu?,"Thạch Thất, Hà Nội"
+9.txt,Trường Đại học Giáo dục ở đâu?,"Nhà G7, số 144 Xuân Thủy"
+9.txt,Trường Đại học Giáo dục có bao nhiêu phòng chức năng?,6 phòng chức năng
+9.txt,"Năm học nào, Trường Đại học Giáo dục ban hành Kế hoạch đào tạo năm học 2024-2025 cho sinh viên đại học hệ chính quy khoá QH-2024-S?",Năm học 2024-2025
+9.txt,Trường Đại học Giáo dục có bao nhiêu quyết định về việc ban hành quy chế đào tạo đại học?,Có ít nhất 2 quyết định (Quyết định số 3626/QĐ-ĐHQGHN và Quyết định số 4555/QĐ-ĐHQGHN)
+9.txt,Trường Đại học Giáo dục có bao nhiêu thông báo về việc tổ chức thi kết thúc học phần dành cho sinh viên đại học chính quy?,"Có ít nhất 1 thông báo (Lịch tổ chức thi kết thúc học phần dành cho sinh viên đại học chính quy, học kỳ II năm học 2024 – 2025)"
+9.txt,Trường Đại học Giáo dục có bao nhiêu danh sách phòng phỏng vấn sau đại học?,Có ít nhất 1 danh sách (Danh sách phòng phỏng vấn Sau đại học Đợt 1 năm 2025)
+9.txt,Trường Đại học Giáo dục có bao nhiêu thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở?,"Có ít nhất 1 thông báo (Thông báo về việc giới thiệu danh sách thành viên Hội đồng Giáo sư cơ sở Trường Đại học Giáo dục, ĐHQGHN năm 2025)"
+9.txt,Trường Đại học Giáo dục có bao nhiêu thông báo về việc tổ chức đánh giá luận án tiến sĩ?,Có ít nhất 1 thông báo (Thông báo tổ chức đánh giá luận án tiến sĩ của nghiên cứu sinh Lê Phương Thúy)
+9.txt,Trường Đại học Giáo dục có bao nhiêu thông báo về việc tổ chức bảo vệ luận án cấp Đại học Quốc gia?,Có ít nhất 1 thông báo (Thông báo tổ chức buổi bảo vệ luận án cấp Đại học Quốc gia của NCS Nguyễn Công Ước)
+9.txt,Trường Đại học Giáo dục có bao nhiêu thông báo về việc thu hồ sơ xét tốt nghiệp?,Có ít nhất 1 thông báo
+50.txt,"Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN (VNU-USSH) tổ chức Lễ trao Quyết định Ban hành và giao nhiệm vụ Đào tạo Chương trình trình độ Tiến sĩ ngành Việt Nam học vào ngày nào?",26/10/2024
+50.txt,Căn cứ Quy chế đào tạo tiến sĩ ở Đại học Quốc gia Hà Nội được ban hành kèm theo Quyết định số nào?,3638/QĐ-ĐHQGHN
+50.txt,"Địa chỉ của Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN là đâu?","336 Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
+50.txt,Năm nào Trường Đại học Khoa học Xã hội và Nhân văn được thành lập?,Không có thông tin cụ thể về năm thành lập trong tài liệu
+50.txt,"Địa chỉ email của Trường Đại học Khoa học Xã hội và Nhân văn, ĐHQGHN là gì?",contact@ussh.edu.vn
+50.txt,"Năm nào Trường Đại học Khoa học Xã hội và Nhân văn được thành lập không rõ ràng, nhưng có thể liên quan đến việc thành lập Đại học Quốc gia Hà Nội năm 1995.",1995
+64.txt,Trường Đại học Việt Nhật được thành lập năm nào?,Năm 2008
+64.txt,Địa chỉ của Trường Đại học Việt Nhật tại Hà Nội là gì?,"Đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
+64.txt,Số điện thoại của Trường Đại học Việt Nhật là gì?,(+84) 966 954 736 và (+84) 969 638 426
+64.txt,Email của Trường Đại học Việt Nhật là gì?,admission@vju.ac.vn và info@vju.ac.vn
+64.txt,Tên của Hiệu trưởng Trường Đại học Việt Nhật là gì?,(Không có thông tin cụ thể)
+64.txt,Số lượng sinh viên quốc tế tại Trường Đại học Việt Nhật là bao nhiêu?,(Không có thông tin cụ thể)
+64.txt,Số lượng chương trình đào tạo tại Trường Đại học Việt Nhật là bao nhiêu?,(Không có thông tin cụ thể)
+64.txt,Địa chỉ của Cơ sở Mỹ Đình của Trường Đại học Việt Nhật là gì?,"Đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
+64.txt,Địa chỉ của Cơ sở Hòa Lạc của Trường Đại học Việt Nhật là gì?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+45.txt,Trường Đại học Khoa học Xã hội và Nhân văn (VNU-USSH) tổ chức Kỳ thi Olympic bậc THPT các môn Ngữ văn và Lịch sử vào ngày nào?,27/10/2024
+45.txt,VNU-USSH đào tạo chương trình mới: Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh từ kỳ tuyển sinh đợt 2 năm 2024.,Có
+45.txt,"Học viên sau khi tốt nghiệp thạc sĩ có khả năng phân tích được hệ thống chính sách và kiến thức liên ngành làm cơ sở triển khai hoạt động nghiên cứu, tư vấn chính sách phù hợp với thực tiễn pháp lý và bối cảnh đời sống xã hội Việt Nam trong môi trường toàn cầu.",Có
+45.txt,Trường ĐH KHXH&NV tổ chức thành công Kỳ thi Olympic bậc THPT của ĐHQGHN năm 2024.,Có
+45.txt,VNU-USSH đào tạo chương trình mới: Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam.,Có
+45.txt,VNU-USSH đào tạo chương trình mới: Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh từ kỳ tuyển sinh đợt 2 năm 2024.,Có
+45.txt,VNU-USSH đào tạo chương trình mới: Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh từ kỳ tuyển sinh đợt 2 năm 2024.,Có
+45.txt,VNU-USSH đào tạo chương trình mới: Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh từ kỳ tuyển sinh đợt 2 năm 2024.,Có
+45.txt,VNU-USSH đào tạo chương trình mới: Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh từ kỳ tuyển sinh đợt 2 năm 2024.,Có
+45.txt,VNU-USSH đào tạo chương trình mới: Tiến sĩ chuyên ngành Tiếng Việt và Nghiên cứu Việt Nam bắt đầu tuyển sinh từ kỳ tuyển sinh đợt 2 năm 2024.,Có
+29.txt,Trường ĐHKHTN - ĐHQGHN được thành lập từ năm nào?,"Sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội"
+29.txt,Địa chỉ của Trường ĐHKHTN - ĐHQGHN là ở đâu?,"334 Nguyễn Trãi, Thanh Xuân, Hà Nội"
+29.txt,Điện thoại của Trường ĐHKHTN - ĐHQGHN là số nào?,(84) 0243-8584615 /
+29.txt,Năm nào Trường ĐHKHTN - ĐHQGHN tổ chức hội thảo quốc tế về Sinh học từ hệ sinh thái rừng?,21/03/
+29.txt,Email của Trường ĐHKHTN - ĐHQGHN là gì?,hus@vnu.edu.vn - admin@hus.edu.vn
+29.txt,Địa chỉ website của Trường ĐHKHTN - ĐHQGHN là gì?,hus.edu.vn
+29.txt,"Năm nào Trường ĐHKHTN - ĐHQGHN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội?","Không rõ, nhưng Trường ĐHKHTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội"
+29.txt,Fax của Trường ĐHKHTN - ĐHQGHN là số nào?,(84) 0243-
+29.txt,Tên của trường đại học đầu tiên và lớn nhất của đất nước là gì?,Trường ĐHTH Hà Nội
+29.txt,Tên của trường đại học lớn nhất ở Pittsburgh là gì?,Đại học Carnegie Mellon.
+60.txt,Trường Đại học Việt Nhật được thành lập theo Quyết định nào của Thủ tướng Chính phủ Việt Nam?,Quyết định 1186/QĐ-TTg
+60.txt,Trường Đại học Việt Nhật được định hướng phát triển theo mô hình đại học nghiên cứu như thế nào?,Tập trung vào hai lĩnh vực mũi nhọn là công nghệ kỹ thuật tiên tiến và khoa học liên ngành
+60.txt,Trường Đại học Việt Nhật có cơ sở vật chất tại địa điểm nào?,"Đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội và Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+60.txt,Trường Đại học Việt Nhật có hotline là số nào?,(+84) 966 954 736 (+84) 969 638 426
+60.txt,Trường Đại học Việt Nhật có email là địa chỉ nào?,admission@vju.ac.vn và info@vju.ac.vn
+60.txt,Trường Đại học Việt Nhật có cơ sở vật chất tại khu đô thị nào?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+60.txt,Trường Đại học Việt Nhật có hotline và email để hỗ trợ tuyển sinh?,"Có, hotline (+84) 966 954 736 (+84) 969 638 426 và email admission@vju.ac.vn và info@vju.ac.vn"
+60.txt,Trường Đại học Việt Nhật có cơ sở vật chất tại khu vực nào?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội và đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
+60.txt,Trường Đại học Việt Nhật có hotline và email để hỗ trợ đào tạo?,"Có, hotline (+84) 966 954 736 (+84) 969 638 426 và email admission@vju.ac.vn và info@vju.ac.vn"
+13.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập vào năm nào?,"1994 (không rõ trong tài liệu, nhưng theo thông tin chung)"
+13.txt,Giám đốc ĐHQGHN đã ban hành Quyết định số 1366/QĐ-ĐHQGHN về việc ban hành Quy định về mở mới và điều chỉnh chương trình đào tạo ở ĐHQGHN vào ngày nào?,25/04/2012
+13.txt,Quy định về mở mới và điều chỉnh chương trình đào tạo ở ĐHQGHN được áp dụng cho các đơn vị đào tạo bao gồm?,"Trường đại học thành viên, trung tâm, viện nghiên cứu, khoa trực thuộc"
+13.txt,"Đối với các ngành/chuyên ngành có tên trong Danh mục ngành/chuyên ngành đào tạo của Nhà nước, đơn vị cần xây dựng Đề án mở chương trình đào tạo nào?",Chương trình đào tạo chuẩn Đại học Quốc gia Hà Nội (ĐHQGHN)
+13.txt,"Đối với các ngành/chuyên ngành không có tên trong Danh mục ngành/chuyên ngành đào tạo của Nhà nước, đơn vị cần xây dựng Đề án mở chương trình đào tạo nào?",Chương trình đào tạo thí điểm
+13.txt,"Đối với các chương trình đào tạo mang tính tổng hợp kiến thức khoa học của nhiều ngành/chuyên ngành thuộc nhiều lĩnh vực khác nhau, liên quan đến nhiều đơn vị trong và ngoài ĐHQGHN, đơn vị cần xây dựng Đề án mở chương trình đào tạo nào?",Chương trình đào tạo liên ngành (đã có trong Danh mục ngành/chuyên ngành đào tạo của Nhà nước) hoặc Chương trình đào tạo liên ngành thí điểm (chưa có trong Danh mục ngành/chuyên ngành đào tạo của Nhà nước)
+13.txt,Quy định này không áp dụng cho các chương trình đào tạo nào?,"Chương trình đào tạo đạt chuẩn quốc tế, chương trình đào tạo liên kết quốc tế"
+13.txt,Các chương trình đào tạo đặc biệt có quy định riêng của Giám đốc ĐHQGHN bao gồm?,Các chương trình đào tạo đặc biệt có quy định riêng của Giám đốc ĐHQGHN
+13.txt,"ĐHQGHN có trụ sở chính tại khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội?",Có
+10.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) đã ký quyết định về việc ban hành Quy chế đào tạo Tiến sĩ vào ngày nào?,21/10/2022
+10.txt,Quy chế đào tạo Tiến sĩ của ĐHQGHN áp dụng cho các khóa tuyển sinh từ năm nào trở đi?,2022
+10.txt,Thời gian đào tạo chuẩn đối với người có bằng thạc sĩ là bao lâu?,03 năm
+10.txt,Số lượng nghiên cứu sinh được hướng dẫn độc lập bởi giáo sư là tối đa bao nhiêu?,07
+10.txt,Thời gian đào tạo chuẩn đối với người chưa có bằng thạc sĩ là bao lâu?,04 năm
+10.txt,Số lượng nghiên cứu sinh được hướng dẫn độc lập bởi phó giáo sư hoặc tiến sĩ khoa học là tối đa bao nhiêu?,05
+10.txt,Số lượng nghiên cứu sinh được hướng dẫn độc lập bởi tiến sĩ là tối đa bao nhiêu?,03
+10.txt,Thời gian đào tạo được kéo dài khi có lý do chính đáng nhưng tổng thời gian đào tạo không vượt quá bao lâu?,06 năm (72 tháng)
+10.txt,Số lượng nghiên cứu sinh được phép hướng dẫn bởi cán bộ hướng dẫn có năng lực nghiên cứu xuất sắc là tối đa bao nhiêu?,Không có giới hạn cụ thể
+53.txt,Trường Đại học Khoa học Tự nhiên (ĐHKHTN) được thành lập từ năm nào?,"Trường ĐHKHTN ra đời là sự tiếp nối, kế thừa và phát huy truyền thống hơn 55 của Trường ĐHTH Hà Nội"
+53.txt,Địa chỉ của Trường Đại học Khoa học Tự nhiên là ở đâu?,334 Nguyễn Trãi - Thanh Xuân - Hà Nội
+53.txt,Trường Đại học Khoa học Tự nhiên có mạng lưới đối tác bao nhiêu?,"Trường Đại học Khoa học Tự nhiên có mạng lưới trên 350 đối tác là các Trường đại học, các viện nghiên cứu và các tập đoàn - doanh nghiệp quốc tế có uy tín ở Việt Nam và nhiều quốc gia và các vùng lãnh thổ trên toàn thế giới"
+53.txt,Số lượng đề tài nghiên cứu khoa học tài trợ bởi các tổ chức quốc tế mà cán bộ nhà trường tham gia hàng năm là bao nhiêu?,Khoảng 15 đề tài nghiên cứu khoa học tài trợ bởi các tổ chức quốc tế
+53.txt,Số lượng công bố trên tạp chí ISI/Scopus của trường hàng năm là bao nhiêu?,Tổng số 600 công bố
+53.txt,Trường Đại học Khoa học Tự nhiên đang triển khai Chương trình Đào tạo liên kết bậc Thạc sỹ về Công nghệ bán dẫn với Đại học nào?,Đại học Quốc lập Dương Minh Giao Thông (NYCU)
+53.txt,"Số lượng lượt khách quốc tế đến thăm, làm việc, giảng dạy, nghiên cứu, học tập và trao đổi hợp tác tại Trường Đại học Khoa học Tự nhiên hàng năm là bao nhiêu?",Khoảng 200 lượt khách quốc tế
+53.txt,Địa chỉ email của Trường Đại học Khoa học Tự nhiên là gì?,hus@vnu.edu.vn - admin@hus.edu.vn
+48.txt,Đại học Vietnam Japan University có địa chỉ ở đâu?,"Luu Huu Phuoc Road, My Dinh 1 Residential Area, Cau Dien Ward, Nam Tu Liem District, Hanoi, Vietnam và Hoa Lac, Thach That District, Ha Noi, Vietnam"
+48.txt,Số điện thoại nóng của Đại học Vietnam Japan University là gì?,(+84) 966 954 736 và (+84) 969 638 426
+48.txt,Địa chỉ email của Đại học Vietnam Japan University là gì?,"admission@vju.ac.vn, info@vju.ac.vn và rpcd@vju.ac.vn"
+48.txt,Đại học Vietnam Japan University có trụ sở chính tại đâu?,"Hanoi, Vietnam"
+48.txt,Đại học Vietnam Japan University có các cơ sở đào tạo khác nhau ở đâu?,"Hoa Lac, Thach That District, Ha Noi, Vietnam"
+48.txt,Đại học Vietnam Japan University có các chương trình đào tạo sau đại học và đại học?,Có
+48.txt,Đại học Vietnam Japan University có các cơ sở vật chất và trang thiết bị cho sinh viên?,Có
+48.txt,Đại học Vietnam Japan University có các chương trình trao học bổng cho sinh viên?,Có
+48.txt,Đại học Vietnam Japan University có các chương trình hợp tác với các trường đại học khác?,Có
+16.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập năm nào?,30 năm trước khi Nghị định về ĐHQGHN được Chính phủ ban hành
+16.txt,Năm nào ĐHQGHN có sự thăng tiến mạnh về vị trí trong bảng xếp hạng QS World University Rankings: Sustainability 2025?,Năm 2025
+16.txt,Vị trí của ĐHQGHN trong bảng xếp hạng QS World University Rankings: Sustainability 2025 là bao nhiêu?,325 thế giới
+16.txt,Năm nào ĐHQGHN được xếp hạng trong nhóm 851-900 các cơ sở giáo dục đại học tốt nhất thế giới theo tiêu chí xếp hạng của QS WUR?,Năm 2025
+16.txt,Vị trí của ĐHQGHN trong bảng xếp hạng QS World University Rankings 2025 là bao nhiêu?,Trong nhóm 851-900
+16.txt,Năm nào ĐHQGHN lần thứ 4 liên tiếp đứng trong nhóm 801-1000 các trường đại học tốt nhất toàn cầu?,Năm 2021
+16.txt,Số lượng chỉ tiêu đại học chính quy mà ĐHQGHN tuyển sinh vào năm 2025 là bao nhiêu?,Hơn 20.000
+16.txt,Số lượng chỉ tiêu đào tạo thạc sĩ và tiến sĩ mà ĐHQGHN tuyển sinh vào năm 2025 là bao nhiêu?,Hơn 3.600 (đào tạo thạc sĩ) và hơn 500 (đào tạo tiến sĩ)
+16.txt,Năm nào ĐHQGHN có nhiều lĩnh vực được xếp hạng trong nhóm từ 400 đến 500 thế giới theo bảng xếp hạng QS by subject 2025?,Năm 2025
+16.txt,Năm nào ĐHQGHN tổ chức thi Đánh giá năng lực ngoại ngữ theo định hướng giao tiếp nghề nghiệp (VNU Tests)?,Năm 2023
+33.txt,Đại học Quốc gia Hà Nội được thành lập vào thời điểm nào?,"Không rõ trong tài liệu, nhưng có thể liên quan đến lịch sử của Đại học Quốc gia Hà Nội"
+33.txt,Địa chỉ của Khu đô thị ĐHQGHN là ở đâu?,"Hoà Lạc, Thạch Thất, Hà Nội"
+33.txt,Giấy phép số 993/GP-TTĐT được cấp vào ngày nào?,20/3/
+33.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên trực thuộc?,Không rõ trong tài liệu
+33.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu khoa học trực thuộc?,Không rõ trong tài liệu
+33.txt,Đại học Quốc gia Hà Nội có bao nhiêu trung tâm đào tạo trực thuộc?,Không rõ trong tài liệu
+33.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị dịch vụ và hỗ trợ trực thuộc?,Không rõ trong tài liệu
+33.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị thực hiện nhiệm vụ đặc biệt trực thuộc?,Không rõ trong tài liệu
+33.txt,Website kỷ niệm 100 năm Đại học Quốc gia Hà Nội là gì?,Không rõ trong tài liệu
+33.txt,Ban Giám đốc của Đại học Quốc gia Hà Nội bao gồm những thành phần nào?,Không rõ trong tài liệu.
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,78
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đại học?,110
+11.txt,Trường Đại học Khoa học Tự nhiên của Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đại học?,20
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở vật chất?,Không rõ (không có thông tin cụ thể trong tài liệu)
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu khoa học?,Không rõ (không có thông tin cụ thể trong tài liệu)
+11.txt,"Đại học Quốc gia Hà Nội có bao nhiêu khoa, cơ sở đào tạo?",Không rõ (không có thông tin cụ thể trong tài liệu)
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo thạc sĩ?,Không rõ (không có thông tin cụ thể trong tài liệu)
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo tiến sĩ?,Không rõ (không có thông tin cụ thể trong tài liệu)
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo liên kết?,Không rõ (không có thông tin cụ thể trong tài liệu)
+11.txt,Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo hệ THCS và THPT?,Không rõ (không có thông tin cụ thể trong tài liệu)
+3.txt,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,1993
+3.txt,Đại học Quốc gia Hà Nội có trụ sở tại đâu?,Hà Nội
+3.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,9
+3.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu trực thuộc?,3
+3.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị đào tạo khác trực thuộc?,5
+3.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị hỗ trợ và dịch vụ trực thuộc?,8
+3.txt,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở tại Hà Nội?,7
+3.txt,Đại học Quốc gia Hà Nội có trụ sở chính tại địa chỉ nào?,"144 Xuân Thủy, Cầu Giấy, Hà Nội"
+3.txt,Đại học Quốc gia Hà Nội chuyển trụ sở làm việc tới địa điểm nào vào năm 2022?,Hòa Lạc
+3.txt,Đại học Quốc gia Hà Nội có bao nhiêu giảng viên và nhân viên?,khoảng 4.393
+42.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập vào năm nào?,1993
+42.txt,"ĐHQGHN được thành lập trên cơ sở tổ chức, sắp xếp lại 03 trường đại học lớn ở Hà Nội là?","Trường Đại học Tổng hợp Hà Nội, Trường Đại học Sư phạm Hà Nội I và Trường Đại học Sư phạm Ngoại ngữ Hà Nội"
+42.txt,"ĐHQGHN có trụ sở chính tại số 144 đường Xuân Thủy, Quận Cầu Giấy, Hà Nội từ năm nào?",1998
+42.txt,ĐHQGHN có 62.931 người học hệ chính quy từ bậc ĐH trở lên vào tháng 10 năm 2023.,Có
+42.txt,"ĐHQGHN có 172 chương trình đào tạo bậc đại học, 183 chương trình đào tạo bậc thạc sĩ, 113 chương trình đào tạo bậc tiến sĩ vào năm 2023.",Có
+42.txt,ĐHQGHN được xếp hạng số 1 Việt Nam và nằm trong nhóm 801-1000 thế giới theo bảng xếp hạng Times Higher Education (THE) vào năm 2023.,Có
+42.txt,"ĐHQGHN có 36 nghiên cứu mạnh, 09 phòng thí nghiệm trọng điểm và trung tâm nghiên cứu trọng điểm vào năm 2023.",Có
+42.txt,"ĐHQGHN có 5.281 người làm việc, 2.642 giảng viên và 279 nghiên cứu viên cơ hữu, toàn thời gian vào năm 2024.",Có
+6.txt,Đại học Quốc gia Hà Nội có bao nhiêu chỉ tiêu tuyển sinh đại học chính quy năm 2024?,18.000
+6.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên?,10
+6.txt,"Thí sinh thuộc đối tượng xét tuyển thẳng, ưu tiên xét tuyển và dự bị đại học, người nước ngoài xét tuyển theo Quy chế tuyển sinh của Bộ GD&ĐT và Quy chế, Quy định đặc thù của ĐHQGHN cần đáp ứng điều kiện nào?","Có đủ thông tin cá nhân, hồ sơ dự tuyển theo quy định"
+6.txt,Đại học Quốc gia Hà Nội có bao nhiêu chỉ tiêu tuyển sinh đại học chính quy năm 2024 trong Trường ĐH Kinh tế?,2.350
+6.txt,Kỳ thi Đánh giá năng lực của ĐHQGHN năm 2025 có nhiều đổi mới trong cấu trúc đề thi theo chương trình giáo dục phổ thông ban hành năm nào?,2018
+6.txt,Tổ chức Quacquarelli Symonds (QS) đã công bố kết quả Bảng xếp hạng đại học thế giới QS World University Rankings 2025 (QS WUR 2025) vào ngày nào?,5/6/2024
+6.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) có vị trí trong nhóm 851-900 các cơ sở giáo dục đại học tốt nhất thế giới theo tiêu chí xếp hạng của QS WUR 2025.,Có
+6.txt,Đại học Quốc gia Hà Nội có bao nhiêu chỉ tiêu tuyển sinh đại học chính quy năm 2024 trong Trường ĐH Y Dược?,640
+67.txt,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có địa chỉ ở đâu?","Nhà G7, Đại học Quốc gia Hà Nội, số 144 Xuân Thủy, Cầu Giấy, Hà Nội"
+67.txt,"Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là gì?",0243 754 7716 | 0981290448
+67.txt,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có trang Facebook không?",Có
+67.txt,"Số năm thành lập của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội không được nêu trong tài liệu.",Không rõ
+67.txt,Đại học Quốc gia Hà Nội có tên khác là gì?,Không rõ
+67.txt,"Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là 098.129.0448.",Có
+67.txt,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có địa chỉ ở Hà Nội.",Có
+67.txt,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có email tuyensinhliennganh@vnu.edu.vn.",Có
+5.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) có địa chỉ tại đâu?,"144 Xuân Thủy, Cầu Giấy, Hà Nội"
+5.txt,Trường Đại học Khoa học Tự nhiên thuộc ĐHQGHN có tên gọi nào khác?,Trường Đại học Khoa học Tự nhiên
+5.txt,Phương thức xét tuyển đại học chính quy của ĐHQGHN bao gồm các loại nào?,Không có thông tin cụ thể trong tài liệu
+5.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên trực thuộc?,Không có thông tin cụ thể trong tài liệu
+5.txt,Trường Đại học Ngoại ngữ thuộc ĐHQGHN có địa điểm nào?,Không có thông tin cụ thể trong tài liệu
+5.txt,Đại học Quốc gia Hà Nội có bao nhiêu tỉnh thành có trường THPT?,Không có thông tin cụ thể trong tài liệu
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Việt Nhật?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Y Dược?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Kinh tế?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Công nghệ?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Giáo dục?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Quốc tế?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Ngoại ngữ?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Khoa học liên ngành và Nghệ thuật?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Luật?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Việt Nhật?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Quốc tế Pháp ngữ?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Khoa học Tự nhiên?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học  Khoa học Xã hội và Nhân văn?,Có
+5.txt,Đại học Quốc gia Hà Nội có trường Đại học Ngoại ngữ?,Có
+17.txt,Đại học Quốc gia Hà Nội (VNU) được thành lập theo Nghị định số 97/CP ngày 10 tháng 12 năm 1993 của Chính phủ.,1993
+17.txt,Trường Đại học Đông Dương được thành lập theo quyết định số 1514a (ngày 16/5/1906) của Toàn quyền Đông Dương.,1906
+17.txt,Trường Đại học Quốc gia Việt Nam được thành lập ngày 15/11/1945.,1945
+17.txt,Đại học Quốc gia Hà Nội (VNU) có 12 đơn vị đào tạo thành viên trực thuộc.,12
+17.txt,Trường Đại học Khoa học xã hội và Nhân văn là một trong 12 đơn vị đào tạo thành viên trực thuộc Đại học Quốc gia Hà Nội.,Có
+17.txt,Đại học Quốc gia Hà Nội (VNU) có vị trí địa lý đắc địa tại thủ đô Hà Nội.,Có
+17.txt,Trường Đại học Tổng hợp Hà Nội được thành lập theo Quyết định số 2183/TC ngày 4/6/1956 của Chính phủ.,1956
+17.txt,"Đại học Quốc gia Hà Nội (VNU) có sứ mệnh đào tạo nguồn nhân lực chất lượng cao, trình độ cao, bồi dưỡng nhân tài.",Có
+17.txt,"Đại học Quốc gia Hà Nội (VNU) có giá trị cốt lõi là đổi mới sáng tạo, trách nhiệm quốc gia, phát triển bền vững.",Có
+19.txt,Trường Đại học Kinh tế - ĐHQGHN ban hành Thông tin tuyển sinh đại học năm 2025 vào thời điểm nào?,29/04/2025
+19.txt,Trường Đại học Kinh tế - ĐHQGHN có quy định cụ thể về đối tượng dự tuyển cho mỗi phương thức tuyển sinh?,Có
+19.txt,Đối tượng dự tuyển được xác định tại thời điểm xét tuyển (trước khi công bố kết quả xét tuyển chính thức) bao gồm:,Người đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương
+19.txt,Phương thức xét tuyển sử dụng kết quả thi tốt nghiệp THPT năm 2025 có thang điểm xét tuyển là 30 điểm?,Có
+19.txt,Chỉ tiêu tuyển sinh của Trường Đại học Kinh tế - ĐHQGHN trong năm 2025 bao gồm:,2500 chỉ tiêu
+19.txt,"Trường Đại học Kinh tế - ĐHQGHN áp dụng cộng điểm ưu tiên khu vực, đối tượng theo thang điểm 30?",Có
+19.txt,"Mức điểm ưu tiên áp dụng cho khu vực là 0,75 điểm, khu vực 2 nông thôn là 0,5 điểm, khu vực 2 là 0,25 điểm, khu vực 3 không được tính điểm ưu tiên?",Có
+19.txt,"Mức điểm ưu tiên áp dụng cho nhóm đối tượng là 2,0 điểm cho nhóm đối tượng UT1 và 1,0 điểm cho nhóm đối tượng UT2?",Có
+19.txt,Lệ phí nộp hồ sơ xét tuyển của Trường Đại học Kinh tế - ĐHQGHN là 20.000 đồng/nguyện vọng?,Có
+20.txt,Trường Quốc tế của Đại học Quốc gia Hà Nội có bao nhiêu cơ sở đào tạo?,5
+20.txt,Đại học Quốc gia Hà Nội có tên thường gọi là gì?,ĐHQGHN
+20.txt,Trường Quốc tế của Đại học Quốc gia Hà Nội có bao nhiêu chương trình đào tạo đại học chính quy do ĐHQGHN cấp bằng?,7
+20.txt,Thành phố Hà Nội nằm ở tỉnh nào?,"Hà Nội là thủ đô và là một trong hai thành phố trực thuộc trung ương của Việt Nam, nằm ở tỉnh Hà Nội"
+20.txt,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở đào tạo?,Có nhiều cơ sở đào tạo
+20.txt,Trường Quốc tế của Đại học Quốc gia Hà Nội có địa chỉ cơ sở Xuân Thuỷ ở đâu?,"Nhà E5 & G7, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
+20.txt,Thành phố Hà Nội được thành lập năm nào?,Hà Nội được thành lập năm 1010
+20.txt,Đại học Quốc gia Hà Nội có bao nhiêu khoa trực thuộc?,Có nhiều khoa trực thuộc
+20.txt,Trường Quốc tế của Đại học Quốc gia Hà Nội có địa chỉ cơ sở Nguỵ Như Kon tum ở đâu?,"Nhà C, E, Làng sinh viên HACINCO, 79 Ngụy Như Kon Tum, Thanh Xuân, Hà Nội"
+20.txt,Thành phố Hà Nội có diện tích tự nhiên là bao nhiêu?,"923,76 km2"
+7.txt,Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội có tên tiếng Anh là gì?,University of Engineering and Technology (UET)
+7.txt,Địa chỉ của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội là ở đâu?,"Nhà E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội"
+7.txt,Phương thức tuyển sinh của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội bao gồm những phương thức nào?,"Xét tuyển theo KQ thi THPT, xét tuyển theo SAT, A-Level, ACT, xét tuyển theo KQ thi ĐGNL (HSA) do ĐHQG tổ chức, xét tuyển thẳng, ưu tiên xét tuyển thẳng"
+7.txt,Ngành đào tạo của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội có bao nhiêu?,20 ngành đào tạo
+7.txt,Học phí của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội năm học 2024-2025 là bao nhiêu?,Vary từ 32.000.000 đến 40.000.000 đồng
+7.txt,Số lượng chỉ tiêu dự kiến của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội là bao nhiêu?,Vary từ 60 đến 480 chỉ tiêu
+7.txt,Địa điểm tổ chức lễ tốt nghiệp của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội không được cung cấp thông tin. Q: Đại học Công nghệ - Đại học Quốc gia Hà Nội có liên kết quốc tế hay không?,Có
+7.txt,Địa chỉ email của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội là gì?,[email protected]
+7.txt,Website của trường Đại học Công nghệ - Đại học Quốc gia Hà Nội là gì?,https://uet.vnu.edu.vn/
+37.txt,Đại học Quốc gia Hà Nội tuyển sinh bao nhiêu sinh viên năm 2025?,Hơn 20.000 sinh viên
+37.txt,Số lượng sinh viên được tuyển vào trường Đại học Công nghệ năm 2025 tăng bao nhiêu so với năm ngoái?,940
+37.txt,Trường Đại học Quốc gia Hà Nội có bao nhiêu trường thành viên?,12
+37.txt,Chỉ tiêu tuyển sinh của trường Đại học Việt Nhật năm 2025 là bao nhiêu?,450
+37.txt,Số lượng sinh viên được tuyển vào trường Đại học Y Dược năm 2025 là bao nhiêu?,720
+37.txt,"Đại học Quốc gia Hà Nội lưu ý rằng chỉ tiêu trên chưa bao gồm các ngành, chương trình đào tạo dự kiến mở mới trong năm 2025 là bao nhiêu?",Chưa rõ (sẽ được công bố sau)
+37.txt,Số lượng sinh viên được tuyển vào trường Đại học Kinh tế năm 2025 là bao nhiêu?,2.500
+37.txt,Số lượng sinh viên được tuyển vào trường Đại học Giáo dục năm 2025 là bao nhiêu?,1.300
+24.txt,Tuổi Trẻ Online giới thiệu phiên bản đặc biệt dành riêng cho các thành viên nào?,Tuổi Trẻ Sao
+24.txt,Tuổi Trẻ Sao bao gồm các chuyên mục và trải nghiệm nào?,"Tư vấn pháp luật, Hỏi chuyện sức khỏe, Xem nhật báo sắc nét trên mạng (E-paper), Tuổi Trẻ Live"
+24.txt,"Tuổi Trẻ Sao được thiết kế thông thoáng với tất cả các trang, chuyên mục và video đều không có quảng cáo hiển thị.",Có
+24.txt,"Tuổi Trẻ Sao cho phép thành viên tham gia các hoạt động và tương tác như tặng Sao cho tác giả và các bài viết yêu thích, đổi quà lưu niệm trong chương trình.",Có
+24.txt,"Tuổi Trẻ Sao được phát triển để từng bước nâng cao chất lượng nội dung, tăng khả năng kết nối, tương tác và thực hiện các nội dung mới theo nhu cầu của số đông công chúng.",Có
+24.txt,"Tuổi Trẻ Sao có thể mang lại những trải nghiệm mới mẻ, tích cực hơn cho cộng đồng độc giả của Tuổi Trẻ Online.",Có
+24.txt,Kỳ họp thứ 9 Quốc hội khóa XV được tổ chức vào ngày nào?,19-05
+24.txt,Bộ Giáo dục và Đào tạo công bố khung quy đổi điểm các phương thức xét tuyển vào ngày nào?,19-05
+24.txt,Ông Biden bị ung thư tuyến tiền liệt di căn xương vào ngày nào?,Không rõ
+24.txt,Vụ dùng dao đâm nhiều người có các tình tiết kỳ lạ tại Hàn Quốc diễn ra vào ngày nào?,19-05
+24.txt,Đại học Carnegie Mellon được thành lập năm nào?,1900
+24.txt,Thành phố Pittsburgh được đặt tên theo ai?,William Pitt
+24.txt,Tuổi Trẻ Online được thành lập vào năm nào?,Không rõ
+38.txt,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,Năm không được đề cập trong tài liệu nhưng có thể là năm 1906
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,Không được đề cập trong tài liệu nhưng có thể là 4 trường đại học thành viên
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân?,Có 51 ngành đào tạo cử nhân
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân chất lượng cao?,Có ít nhất 1 ngành đào tạo cử nhân chất lượng cao
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân đạt chuẩn quốc tế?,Có ít nhất 1 ngành đào tạo cử nhân đạt chuẩn quốc tế
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân trọng điểm?,Có ít nhất 1 ngành đào tạo cử nhân trọng điểm
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân liên ngành?,Có ít nhất 1 ngành đào tạo cử nhân liên ngành
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân tài năng?,Có ít nhất 1 ngành đào tạo cử nhân tài năng
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân CLC?,Có ít nhất 5 ngành đào tạo cử nhân CLC
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân tiên tiến?,Có ít nhất 1 ngành đào tạo cử nhân tiên tiến
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân chuẩn quốc tế?,Có ít nhất 2 ngành đào tạo cử nhân chuẩn quốc tế
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân CLC và tiên tiến?,Có ít nhất 1 ngành đào tạo cử nhân CLC và tiên tiến
+38.txt,Đại học Quốc gia Hà Nội có bao nhiêu ngành đào tạo cử nhân CLC và chuẩn quốc tế?,Có ít nhất 2 ngành đào tạo cử nhân CLC và chuẩn quốc tế
+41.txt,Đại học Quốc gia Hà Nội được thành lập theo Nghị định số 97/CP ngày 10 tháng 12 năm 1993 của Chính phủ.,1993
+41.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị thành viên và trực thuộc?,36
+41.txt,Địa chỉ của Đại học Quốc gia Hà Nội là ở đâu?,"144 đường Xuân Thuỷ, quận Cầu Giấy, Hà Nội"
+41.txt,Đại học Quốc gia Hà Nội bao gồm nhiều cơ sở đặt tại các địa điểm nào?,"Hoà Lạc, Thạch Thất, Hà Nội; 334, 336 đường Nguyễn Trãi, quận Thanh Xuân, Hà Nội; 19 phố Lê Thánh Tông, quận Hoàn Kiếm, Hà Nội; 7B Bis, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội"
+41.txt,"Các tuyến xe buýt đến cơ sở của Đại học Quốc gia Hà Nội tại 144 đường Xuân Thuỷ, quận Cầu Giấy, Hà Nội là các tuyến số mấy?","7, 13, 14, 16, 20, 25, 26, 27, 28, 30, 32, 34, 38, 39"
+41.txt,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở tại Hà Nội?,8
+41.txt,"Địa chỉ của Đại học Quốc gia Hà Nội tại khu vực Hòa Lạc (xã Thạch Hòa, huyện Thạch Thất, thành phố Hà Nội) gồm có cơ sở nào?","Cơ quan ĐHQGHN, Trường ĐH Giáo dục, Trường ĐH Việt Nhật, Trường ĐH Y Dược, Trung tâm Chuyển giao tri thức và Hỗ trợ khởi nghiệp, Trung tâm Thư viện và Tri thức số, Trung tâm Giáo dục Quốc phòng - An ninh, Ban Quản lý các dự án, Ban Quản lý Dự án xây dựng ĐHQGHN tại Hòa Lạc"
+41.txt,Địa chỉ của Đại học Quốc gia Hà Nội tại khu vực quận Cầu Giấy gồm có cơ sở nào?,"Tòa nhà Đổi mới sáng tạo, Các trường đại học: Ngoại ngữ, Công nghệ, Kinh tế, Giáo dục, Y - Dược, Luật, Các trường và khoa trực thuộc: Trường Quản trị Kinh doanh, Trường Quốc tế, Khoa Các khoa học liên ngành, Các viện nghiên cứu: Công nghệ Thông tin, Vi sinh vật và"
+4.txt,Đại học Quốc gia Hà Nội được thành lập theo Nghị định số 97/CP ngày bao nhiêu?,10.12.1993
+4.txt,"Năm 1945, Trường Đại học Quốc gia Việt Nam được thành lập dưới sự chủ tọa của Chủ tịch Hồ Chí Minh.",Có đúng
+4.txt,"Đại học Quốc gia Hà Nội đã cơ bản hoàn chỉnh cơ cấu đa ngành, đa lĩnh vực với bao nhiêu trường đại học thành viên?",9
+4.txt,"Năm 2022, ĐHQGHN đã chuyển trụ sở tới Hoà Lạc.",Có đúng
+4.txt,Đại học Quốc gia Hà Nội đã có bao nhiêu nhóm lĩnh vực được xếp hạng theo kết quả xếp hạng theo lĩnh vực – World University Ranking by Subjects 2024 (THE WUR by Subjects 2024)?,8
+4.txt,"Năm 2023, ĐHQGHN có sự bứt phá mạnh mẽ ở thứ hạng 70 thế giới về tiêu chí Giáo dục có chất lượng.",Có đúng
+4.txt,ĐHQGHN đã phối hợp với các đơn vị đối tác xây dựng và phát triển các nền tảng hỗ trợ hệ thống giáo dục quốc dân.,Có đúng
+4.txt,"Năm 2023, học sinh Trường THPT chuyên Khoa học Tự nhiên giành được bao nhiêu huy chương Olympic quốc tế?",291
+61.txt,Trường Khoa học liên ngành và Nghệ thuật được thành lập tại Đại học Quốc gia Hà Nội?,Có
+61.txt,"Địa chỉ của Trường Khoa học liên ngành và Nghệ thuật là số 144 Xuân Thủy, Cầu Giấy, Hà Nội?",Có
+61.txt,Điện thoại của Trường Khoa học liên ngành và Nghệ thuật là 0243 754 7716?,Có
+61.txt,"Trường Khoa học liên ngành và Nghệ thuật có mạng lưới các đối tác, doanh nghiệp đồng hành uy tín ở nhiều lĩnh vực?",Có
+61.txt,"Năm học 2024 – 2025, Trường Khoa học liên ngành và Nghệ thuật tổ chức chiến dịch Mùa Đông Ấm tại Lai Châu?",Có
+61.txt,Địa chỉ email của Trường Khoa học liên ngành và Nghệ thuật là tuyensinhliennganh@vnu.edu.vn?,Có
+61.txt,Trường Khoa học liên ngành và Nghệ thuật có trang Facebook chính thức?,Có
+61.txt,"Năm 1900, Đại học Carnegie Mellon được thành lập?",Có
+32.txt,Đại học Quốc gia Hà Nội được thành lập năm nào?,Năm 1906 (không rõ trong tài liệu nhưng có thể liên quan)
+32.txt,GS.TSKH Vũ Minh Giang là chức vụ của ai?,Phó Giám đốc ĐHQGHN
+32.txt,Trung tâm Truyền thông và Quan hệ công chúng có tên gọi khác là gì?,Không có thông tin liên quan
+32.txt,Năm 2013 có ý nghĩa đặc biệt gì?,Năm 2013 là năm lần đầu tiên Luật Giáo dục đại học có hiệu lực và là năm thứ 20 ngày Chính phủ ra Quyết định thành lập ĐHQGHN
+32.txt,"Địa điểm của Khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội là gì?",Hà Nội
+66.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) có tên chính thức là gì?,Đại học Quốc gia Hà Nội
+66.txt,Đại học Quốc gia Hà Nội có cơ sở vật chất tại địa điểm nào?,"Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
+66.txt,Đại học Quốc gia Hà Nội có cơ sở vật chất tại địa điểm nào khác?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+66.txt,Trường Đại học Việt Nhật có tên chính thức là gì?,Trường Đại học Việt Nhật
+66.txt,Đại học Việt Nhật có cơ sở vật chất tại địa điểm nào?,"Đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
+66.txt,Đại học Việt Nhật có cơ sở vật chất tại địa điểm nào khác?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+66.txt,Đại học Việt Nhật có số điện thoại là gì?,(+84) 966 954 736 (+84) 969 638 426
+66.txt,Đại học Việt Nhật có địa chỉ email là gì?,"admission@vju.ac.vn, info@vju.ac.vn"
+66.txt,Đại học Việt Nhật có hotline là gì?,(+84) 966 954 736 (+84) 969 638 426
+66.txt,Đại học Việt Nhật có số hotline là gì?,(+84) 966 954 736 (+84) 969 638 426
+66.txt,Đại học Việt Nhật có địa chỉ cơ sở Mỹ Đình là gì?,"Trường Đại học Việt Nhật, đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
+66.txt,Đại học Việt Nhật có địa chỉ cơ sở Hòa Lạc là gì?,"Trường Đại học Việt Nhật, Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+66.txt,Đại học Việt Nhật có địa chỉ email là gì?,"admission@vju.ac.vn, info@vju.ac.vn"
+66.txt,Đại học Việt Nhật có địa chỉ hotline là gì?,(+84) 966 954 736 (+84) 969
+54.txt,Trường ĐHKHTN được thành lập trên cơ sở hợp nhất 4 khối THPT Chuyên vào năm nào?,2010
+54.txt,Số lượng sinh viên tốt nghiệp tiếp tục học cao học vào khoảng bao nhiêu phần trăm?,50%
+54.txt,Trường ĐHKHTN đã được Bộ GD&ĐT giao nhiệm vụ triển khai thực hiện 4 đề án đào tạo theo chương trình tiên tiến với đối tác nước ngoài nào?,Các trường đại học có thứ hạng cao trong top 100 trường tốt nhất của thế giới
+54.txt,Trường ĐHKHTN đã thực hiện đào tạo sau đại học với tỷ lệ học viên sau đại học lớn hơn bao nhiêu phần trăm?,30%
+54.txt,"Năm 2007, Trường đã tổng kết bao nhiêu năm đào tạo CNKHTN?",10
+54.txt,Trường ĐHKHTN đã được giao nhiệm vụ đào tạo trình độ tiến sĩ theo đề án 911 với cả hai phương thức đào tạo là tại trường và phối hợp với Đại học Kitakyushu (Nhật Bản) bao nhiêu chuyên ngành?,37 chuyên ngành và chuyên ngành Kỹ thuật môi trường
+54.txt,Trường ĐHKHTN quản lý và tổ chức đào tạo bao nhiêu chuyên ngành đào tạo thạc sĩ và 48 chuyên ngành đào tạo tiến sĩ?,46 và 48
+54.txt,Số lượng đào tạo đại học của Trường hiện nay gồm bao nhiêu sinh viên đại học chính quy và vừa làm vừa học?,5923 và 1887
+54.txt,"Trường ĐHKHTN có bao nhiêu chương trình đào tạo bậc đại học, trong đó có bao nhiêu chương trình nhiệm vụ chiến lược?",45 và 17
+59.txt,"Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội có địa chỉ ở đâu?","Nhà G7, Đại học Quốc gia Hà Nội, số 144 Xuân Thủy, Cầu Giấy, Hà Nội"
+59.txt,"Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là gì?",0243 754 7716
+59.txt,"Năm nào, Trường Khoa học liên ngành và Nghệ thuật công bố thông tin tuyển sinh đại học chính quy năm 2025 (dự kiến)?",2025
+59.txt,"Ngày nào, Đại học Quốc gia Hà Nội ban hành chương trình đào tạo trình độ đại học ngành Công nghệ truyền thông?",28 tháng 4 năm 2025
+59.txt,"Thành phố nào, Đại học Quốc gia Hà Nội đặt tại?",Hà Nội
+59.txt,"Số điện thoại của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là 098.129.0448?",Có
+59.txt,"Năm nào, Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội công bố thông tin tuyển sinh đại học chính quy năm 2024?",2024
+59.txt,"Địa chỉ của Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội là Nhà G7?",Có
+59.txt,"Năm nào, Trường Khoa học liên ngành và Nghệ thuật, Đại học Quốc gia Hà Nội ban hành chương trình đào tạo trình độ đại học ngành Công nghệ truyền thông?",2025
+31.txt,ĐHQGHN tuyển sinh bao nhiêu chỉ tiêu vào năm 2019?,Gần 10.000 chỉ tiêu
+31.txt,ĐHQGHN tuyển sinh bao nhiêu ngành đào tạo vào năm 2019?,"120 ngành, chương trình đào tạo"
+31.txt,ĐHQGHN tuyển sinh các hình thức xét tuyển nào vào năm 2019?,(1) Thí sinh sử dụng kết quả kì thi THPT quốc gia; (2) Thí sinh có chứng chỉ quốc tế A-Level; (3) Thí sinh có kết quả trong kỳ thi chuẩn hóa SAT; (4) Thí sinh có chứng chỉ tiếng Anh IELTS
+31.txt,"ĐHQGHN tuyển sinh các đối tượng xét tuyển thẳng, ưu tiên xét tuyển nào vào năm 2019?","Các em đạt giải trong kỳ thi học sinh giỏi quốc gia, cấp tỉnh, thành phố"
+31.txt,ĐHQGHN có bao nhiêu CTĐT mới được tuyển sinh vào năm 2019?,13 CTĐT mới
+31.txt,ĐHQGHN có bao nhiêu CTĐT truyền thống được chuyển đổi theo hướng mô hình đào tạo chất lượng cao vào năm 2019?,Hầu hết các CTĐT chất lượng cao
+31.txt,ĐHQGHN tuyển sinh các ngành đào tạo thí điểm vào năm 2019?,15 ngành đào tạo thí điểm
+31.txt,ĐHQGHN có bao nhiêu sinh viên tốt nghiệp nhận 2 bằng đại học và 2.500 sinh viên đang theo học bằng kép từ năm 2015 đến nay?,Khoảng hơn 3.000 sinh viên tốt nghiệp nhận 2 bằng đại học và 2.500 sinh viên đang theo học bằng kép
+36.txt,Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập năm nào?,"Năm tài liệu không đề cập rõ ràng, nhưng có thể liên quan đến thông tin về lịch sử của ĐHQGHN"
+36.txt,Thành phố Hà Nội là thủ đô của quốc gia nào?,Việt Nam
+36.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,"Không rõ, nhưng có thể liên quan đến thông tin về cơ cấu tổ chức của ĐHQGHN"
+36.txt,"ĐHQGHN có trụ sở chính tại khu đô thị ĐHQGHN tại Hoà Lạc, Thạch Thất, Hà Nội hay không?",Có
+36.txt,Đại học Quốc gia Hà Nội có giấy phép số 993/GP-TTĐT ngày 20/3/2020 của Sở Thông tin và Truyền thông Hà Nội hay không?,Có
+36.txt,Đại học Quốc gia Hà Nội có Website kỷ niệm 100 năm hay không?,Có
+36.txt,Đại học Quốc gia Hà Nội có các trung tâm đào tạo trực thuộc hay không?,Có
+65.txt,Trường Đại học Việt Nhật (VJU) có cơ sở tại đâu?,VJU có cơ sở tại Hà Nội và Hoà Lạc
+65.txt,Thông tin tuyển sinh của VJU được cập nhật vào thời điểm nào?,Thông tin tuyển sinh của VJU được cập nhật thường xuyên
+65.txt,Số điện thoại hotline của VJU là bao nhiêu?,(+84) 966 954 736 (+84) 969 638 426
+65.txt,Địa chỉ cơ sở Mỹ Đình của VJU là ở đâu?,"Đường Lưu Hữu Phước, Cầu Diễn, Nam Từ Liêm, Hà Nội"
+65.txt,Thời gian tuyển sinh của VJU thường diễn ra vào khoảng thời gian nào?,Thông tin tuyển sinh của VJU được cập nhật thường xuyên
+65.txt,Địa chỉ cơ sở Hòa Lạc của VJU là ở đâu?,"Khu đô thị Đại học Quốc gia, Hoà Lạc, Thạch Thất, Hà Nội"
+65.txt,Số điện thoại email của VJU là bao nhiêu?,"admission@vju.ac.vn, info@vju.ac.vn"
+65.txt,Thông tin về học phí và học bổng của VJU được cập nhật vào thời điểm nào?,Thông tin về học phí và học bổng của VJU được cập nhật thường xuyên
+65.txt,Địa chỉ của VJU có thể được tìm thấy trên trang web nào?,Trang web chính thức của VJU
+65.txt,Thông tin về các chương trình đào tạo của VJU được cập nhật vào thời điểm nào?,Thông tin về các chương trình đào tạo của VJU được cập nhật thường xuyên
+65.txt,Số điện thoại hotline của VJU có thể được tìm thấy trên trang web nào?,Trang web chính thức của VJU
+65.txt,Địa chỉ của VJU có thể được tìm thấy trên trang web nào?,Trang web chính thức của VJU
+65.txt,Thông tin về các chương trình đào tạo của VJU được cập nhật vào thời điểm nào?,Thông tin về các chương trình đào tạo của VJU được cập nhật thường xuyên
+65.txt,Số điện thoại email của VJU có thể được tìm thấy trên trang web nào?,Trang web chính thức của V
+8.txt,Giám đốc ĐHQGHN đã ký Quyết định số 3626/QĐ-ĐHQGHN vào ngày nào?,21/10/2022
+8.txt,Quy chế Đào tạo đại học của ĐHQGHN gồm các chương và điều gì?,"9 chương, 51 điều"
+8.txt,ĐHQGHN đã đưa học phần công nghệ số và trí tuệ nhân tạo vào giảng dạy từ năm nào?,Năm nhất
+8.txt,Trường ĐH Kinh tế và Trường THPT Khoa học Giáo dục đã thúc đẩy Chương trình Ươm tạo tài năng VNU 12+ vào ngày nào?,07/05/2025
+8.txt,ĐHQGHN đã mở thêm 4 chuyên ngành đào tạo cử nhân thích ứng với thị trường lao động vào ngày nào?,25/03/2025
+8.txt,Đại học Quốc gia Hà Nội đã ký Quyết định số 3626/QĐ-ĐHQGHN ban hành Quy chế Đào tạo đại học vào năm nào?,2022
+8.txt,ĐHQGHN đã tổ chức Ngày hội tư vấn tuyển sinh - hướng nghiệp 2025 vào ngày nào?,17/03/2025
+8.txt,"ĐHQGHN đã tập trung ưu tiên đào tạo các ngành kỹ thuật - công nghệ, chip, công nghệ bán dẫn vào ngày nào?",15/02/2025
+8.txt,ĐHQGHN đã ký Quyết định số 3626/QĐ-ĐHQGHN ban hành Quy chế Đào tạo đại học của Đại học Quốc gia Hà Nội vào ngày nào?,21/10/2022
+8.txt,ĐHQGHN đã đưa học phần công nghệ số và trí tuệ nhân tạo vào giảng dạy từ năm nào?,Năm nhất
+14.txt,Đại học Quốc gia Hà Nội có bao nhiêu trường đại học thành viên?,09
+14.txt,Trách nhiệm của các Trường đại học thành viên thuộc Đại học Quốc gia Hà Nội trong hoạt động đào tạo được quy định tại Điều 13 Quy chế tổ chức và hoạt động của Đại học quốc gia và cơ sở giáo dục đại học thành viên.,"Có nhiệm vụ xây dựng, tổ chức thẩm định đề án mở ngành, chuyên ngành đào tạo của đơn vị, báo cáo Giám đốc Đại học quốc gia; có trách nhiệm tổ chức cập nhật, điều chỉnh và ban hành chương trình đào tạo của đơn vị theo đúng quy định của Đại học quốc gia"
+14.txt,Địa chỉ của Trường Đại học Văn Lang Cơ Sở 3 là ở đâu?,Không có thông tin về địa chỉ của Trường Đại học Văn Lang Cơ Sở 3 trong tài liệu
+14.txt,Mã trường Đại học Công Thương TP HCM là gì?,Không có thông tin về mã trường Đại học Công Thương TP HCM trong tài liệu
+14.txt,Đại học Quốc gia Hà Nội được thành lập trên cơ sở nào?,Đại học Quốc gia Hà Nội được thành lập trên cơ sở quyết định của Thủ tướng Chính phủ
+14.txt,Trường đại học tự chủ tài chính sử dụng nguồn tài chính cho các hoạt động nào?,"Trường đại học tự chủ tài chính sử dụng nguồn tài chính cho các hoạt động như đào tạo, nghiên cứu, dịch vụ và kinh doanh"
+14.txt,Số lượng Trường đại học thành viên thuộc Đại học Quốc gia Hà Nội là bao nhiêu?,09
+14.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị thành viên?,Không có thông tin về số lượng đơn vị thành viên của Đại học Quốc gia Hà Nội trong tài liệu
+14.txt,Trách nhiệm của các Trường đại học thành viên thuộc Đại học Quốc gia Hà Nội trong hoạt động đào tạo được quy định tại Điều khoản nào của Quy chế tổ chức và hoạt động của Đại học quốc gia và cơ sở giáo dục đại học thành viên?,Điều 13
+58.txt,Đại học Quốc gia Hà Nội được thành lập vào năm nào?,"Không rõ, nhưng có thể liên quan đến văn bản ""Website kỷ niệm 100 năm ĐHQGHN"""
+58.txt,Quy định tạm thời về công tác người nước ngoài học tại Đại học Quốc gia Hà Nội được ban hành vào ngày nào?,21 tháng 3 năm 2002
+58.txt,Vị trí tuyển dụng của Đại học Quốc gia Hà Nội có bao nhiêu loại hình?,"Không rõ, nhưng có thể liên quan đến ""Vị trí tuyển dụng"" trong menu"
+58.txt,Số lượng các trường đại học thành viên của Đại học Quốc gia Hà Nội là bao nhiêu?,"Không rõ, nhưng có thể liên quan đến ""Các trường đại học thành viên"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu khoa trực thuộc?,"Không rõ, nhưng có thể liên quan đến ""Các khoa trực thuộc"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị nghiên cứu khoa học?,"Không rõ, nhưng có thể liên quan đến ""Các đơn vị nghiên cứu khoa học"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu trung tâm đào tạo trực thuộc?,"Không rõ, nhưng có thể liên quan đến ""Các trung tâm đào tạo trực thuộc"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị dịch vụ và hỗ trợ?,"Không rõ, nhưng có thể liên quan đến ""Các đơn vị dịch vụ và hỗ trợ"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu đơn vị thực hiện nhiệm vụ đặc biệt?,"Không rõ, nhưng có thể liên quan đến ""Các đơn vị thực hiện nhiệm vụ đặc biệt"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu văn bản pháp quy?,"Không rõ, nhưng có thể liên quan đến ""Văn bản pháp quy"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu thủ tục hành chính trực tuyến?,"Không rõ, nhưng có thể liên quan đến ""Thủ tục hành chính trực tuyến"" trong menu"
+58.txt,Đại học Quốc gia Hà Nội có bao nhiêu cơ sở vật chất?,"Không rõ, nhưng có thể liên quan đến ""Cơ sở vật chất"" trong menu"

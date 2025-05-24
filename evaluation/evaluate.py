@@ -116,8 +116,7 @@ if __name__ == "__main__":
         generation_df = pd.read_csv(args.combined_dir)
         generated_answers = generation_df["Generated_Answer"].tolist()
         # each row is a list of gold answers
-        # example gold answers: ["William Pitt", "William Pitt the Younger"]
-        gold_answers = generation_df["Reference_Answers"].apply(lambda x: str(x).split("[SEP]")).tolist()
+        gold_answers = generation_df["Answer"].apply(lambda x: str(x).split("[SEP]")).tolist()
         print(gold_answers[:5])
     
     else:
@@ -134,14 +133,6 @@ if __name__ == "__main__":
             for line in f:
                 generated_answers.append(line.strip())
     
-    # # sample gold and generated answers for testing
-    # gold_answers = [
-    #     ["William Pitt"], 
-    #     ["ICML", "International Conference on Machine Learning"], 
-    #     ["Billie Eilish"]
-    # ]
-
-    # generated_answers = ["William Pitt, the pioneer", "COLM", "Billie"]
 
     # evaluate the generated answers
     results = evaluate(gold_answers, generated_answers)
